@@ -1,6 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;POLSKI;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGESE;RUSSIAN;FINNISH;x
-party_none;None;;;;;;;;;;;;;x
-fascistic_idolg_ADN;Andorran Fascist League;;;;;;;;;;;;;x
+party_none;ĞĞµÑ‚;;;;;;;;;;;;;x
+fascistic_idolg_ADN;ĞĞ½Ğ´Ğ¾Ñ€Ñ€ÑĞºĞ°Ñ Ğ¤Ğ°ÑˆĞ¸ÑÑ‚ÑĞºĞ°Ñ Ğ›Ğ¸Ğ³Ğ°;;;;;;;;;;;;;x
 paternal_auto_idolg_ADN;Parochial Union of Ordino;;;;;;;;;;;;;x
 social_cons_idolg_ADN;Andorran Democratic Centre;;;;;;;;;;;;;x
 market_liberal_idolg_ADN;Liberal Party of Andorra;;;;;;;;;;;;;x
@@ -10,13 +10,13 @@ left_wing_radical_idolg_ADN;Socialist Party;;;;;;;;;;;;;x
 maoist_idolg_ADN;Andorran Communist Party;;;;;;;;;;;;;x
 communist_idolg_ADN;Communist Party of Andorra;;;;;;;;;;;;;x
 fascistic_idolg_AFG;Afghan Fascist League;Ligue fasciste afghane;Faschistische Liga Afghanistan;;Liga Fascista Afgana;;;;;;;;;x
-paternal_auto_idolg_AFG;National Revolutionary Party;Parti national révolutionnaire;Nationale Revolutionspartei;;Partido Revolucionario Nacional;;;;;;;;;x
+paternal_auto_idolg_AFG;National Revolutionary Party;Parti national rï¿½volutionnaire;Nationale Revolutionspartei;;Partido Revolucionario Nacional;;;;;;;;;x
 social_cons_idolg_AFG;Afghan Conservative Party;Parti conservateur afghan;Konservative Partei Afghanistans;;Partido Conservador Afgano;;;;;;;;;x
-market_liberal_idolg_AFG;Afghan Liberal Party;Parti libéral afghan;Liberale Partei Afghanistans;;Partido Liberal Afgano;;;;;;;;;x
+market_liberal_idolg_AFG;Afghan Liberal Party;Parti libï¿½ral afghan;Liberale Partei Afghanistans;;Partido Liberal Afgano;;;;;;;;;x
 social_liberal_idolg_AFG;NCPA;NCPA;NCPA;;NCPA;;;;;;;;;x
-social_democrat_idolg_AFG;Afghan Social Democratic Party;Parti social démocratique afghan;Sozialdemokratische Partei Afghanistans;;Partido Socialdemócrata Afgano;;;;;;;;;x
+social_democrat_idolg_AFG;Afghan Social Democratic Party;Parti social dï¿½mocratique afghan;Sozialdemokratische Partei Afghanistans;;Partido Socialdemï¿½crata Afgano;;;;;;;;;x
 left_wing_radical_idolg_AFG;RGPA;RGPA;RGPA;;RGPA;;;;;;;;;x
-maoist_idolg_AFG;Afghanistan Liberation Organization;Organisation de libération de l'Afghanistan;Afghanistan Befreiungsorganisation;;Organización para la Liberación de Afganistán;;;;;;;;;x
+maoist_idolg_AFG;Afghanistan Liberation Organization;Organisation de libï¿½ration de l'Afghanistan;Afghanistan Befreiungsorganisation;;Organizaciï¿½n para la Liberaciï¿½n de Afganistï¿½n;;;;;;;;;x
 communist_idolg_AFG;PDPA;PDPA;PDPA;;PDPA;;;;;;;;;x
 fascistic_idolg_ALB;PFSh;PFSh;PFSh;;PFSh;;;;;;;;;x
 paternal_auto_idolg_ALB;PMSh;PMSh;PMSh;;PMSh;;;;;;;;;x
@@ -56,11 +56,11 @@ maoist_idolg_ARA;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_ARA;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_ARG;Frente Justicialista;Frente Justicialista;Frente Justicialista;;Frente Justicialista;;;;;;;;;x
 paternal_auto_idolg_ARG;Partido Justicialista;Partido Justicialista;Partido Justicialista,;;Partido Justicialista,;;;;;;;;;x
-social_cons_idolg_ARG;Partido Demócrata Cristiano;Partido Demócrata Cristiano;Partido Demócrata Cristiano;;Partido Demócrata Cristiano;;;;;;;;;x
+social_cons_idolg_ARG;Partido Demï¿½crata Cristiano;Partido Demï¿½crata Cristiano;Partido Demï¿½crata Cristiano;;Partido Demï¿½crata Cristiano;;;;;;;;;x
 market_liberal_idolg_ARG;Partido Nacional;Partido Nacional;Partido Nacional;;Partido Nacional;;;;;;;;;x
 social_liberal_idolg_ARG;Frente para la Victoria;Frente para la Victoria;Frente para la Victoria;;Frente para la Victoria;;;;;;;;;x
 social_democrat_idolg_ARG;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;;x
-left_wing_radical_idolg_ARG;Unión Cívica Radical;Unión Cívica Radical;Unión Cívica Radical;;Unión Cívica Radical;;;;;;;;;x
+left_wing_radical_idolg_ARG;Uniï¿½n Cï¿½vica Radical;Uniï¿½n Cï¿½vica Radical;Uniï¿½n Cï¿½vica Radical;;Uniï¿½n Cï¿½vica Radical;;;;;;;;;x
 maoist_idolg_ARG;Partido Obrero;Partido Obrero;Partido Obrero;;Partido Obrero;;;;;;;;;x
 communist_idolg_ARG;Partido Comunista de la Argentina;Partido Comunista de la Argentina;Partido Comunista de la Argentina;;Partido Comunista de la Argentina;;;;;;;;;x
 fascistic_idolg_ARM;Armenian Aryan Union;;;;;;;;;;;;;x
@@ -81,24 +81,24 @@ social_democrat_idolg_ARU;People's Electoral Movement;;;;;;;;;;;;;x
 left_wing_radical_idolg_ARU;Concentration for the Liberation of Aruba;;;;;;;;;;;;;x
 maoist_idolg_ARU;Aruban Communist Party;;;;;;;;;;;;;x
 communist_idolg_ARU;Communist Party of Aruba;;;;;;;;;;;;;x
-fascistic_idolg_AST;Australian Union of Fascists;Union australienne fasciste;Australische faschistische Union;;Unión Australiana de Fascistas;;;;;;;;;x
+fascistic_idolg_AST;Australian Union of Fascists;Union australienne fasciste;Australische faschistische Union;;Uniï¿½n Australiana de Fascistas;;;;;;;;;x
 paternal_auto_idolg_AST;Country Party;Parti national;Bauernpartei;;Partido Campesino;;;;;;;;;x
-social_cons_idolg_AST;Liberal and Country League;Ligue libérale et nationale;liberlae Bauern;;Liga Campesina Liberal;;;;;;;;;x
+social_cons_idolg_AST;Liberal and Country League;Ligue libï¿½rale et nationale;liberlae Bauern;;Liga Campesina Liberal;;;;;;;;;x
 market_liberal_idolg_AST;United Australia Party;Parti australien uni;Vereinte australische Partei;;Partido Unido de Australia;;;;;;;;;x
 social_liberal_idolg_AST;Douglas Credit Party;Parti de Douglas;Douglas Credit Party;;Partido Douglas Credit;;;;;;;;;x
 social_democrat_idolg_AST;Labor Party;Parti travailliste;Arbeiterpartei;;Partido Laborista;;;;;;;;;x
 left_wing_radical_idolg_AST;Movement Against War and Fascism;Mouvement contre la guerre et le fascisme;Bewegung gegen Krieg und Faschismus;;Movimiento Contra la Guerra y el Fascismo;;;;;;;;;x
-maoist_idolg_AST;State Labor Party;Parti travailliste d’État;Staatliche Arbeiter Partei;;Partido Laborista Estatal;;;;;;;;;x
+maoist_idolg_AST;State Labor Party;Parti travailliste dï¿½ï¿½tat;Staatliche Arbeiter Partei;;Partido Laborista Estatal;;;;;;;;;x
 communist_idolg_AST;Communist Party of Australia;Parti communiste australien;kommunistische Partei Australiens;;Partido Comunista de Australia;;;;;;;;;x
 fascistic_idolg_AUS;VF;VF;VF;;VF;;;;;;;;;x
 paternal_auto_idolg_AUS;GDVP;GDVP;GDVP;;GDVP;;;;;;;;;x
 social_cons_idolg_AUS;CSP;CSP;CSP;;CSP;;;;;;;;;x
 market_liberal_idolg_AUS;Landbund;Landbund;Landbund;;Landbund;;;;;;;;;x
-social_liberal_idolg_AUS;ÖSLP;ÖSLP;ÖSLP;;ÖSLP;;;;;;;;;x
-social_democrat_idolg_AUS;SDAPÖ;SDAPÖ;SDAPÖ;;SDAPÖ;;;;;;;;;x
+social_liberal_idolg_AUS;ï¿½SLP;ï¿½SLP;ï¿½SLP;;ï¿½SLP;;;;;;;;;x
+social_democrat_idolg_AUS;SDAPï¿½;SDAPï¿½;SDAPï¿½;;SDAPï¿½;;;;;;;;;x
 left_wing_radical_idolg_AUS;Schutzbund;Schutzbund;Schutzbund;;Schutzbund;;;;;;;;;x
-maoist_idolg_AUS;MLPÖ;SDAPÖ;MLPÖ;;MLPÖ;;;;;;;;;x
-communist_idolg_AUS;KPDÖ;Schutzbund;KPDÖ;;KPDÖ;;;;;;;;;x
+maoist_idolg_AUS;MLPï¿½;SDAPï¿½;MLPï¿½;;MLPï¿½;;;;;;;;;x
+communist_idolg_AUS;KPDï¿½;Schutzbund;KPDï¿½;;KPDï¿½;;;;;;;;;x
 fascistic_idolg_AZB;Motherland Party;;;;;;;;;;;;;x
 paternal_auto_idolg_AZB;Civic Solidarity Party;;;;;;;;;;;;;x
 social_cons_idolg_AZB;Democratic Azerbaijan's World;;;;;;;;;;;;;x
@@ -129,8 +129,8 @@ communist_idolg_BAR;Worker's Party of Barbados;;;;;;;;;;;;;x
 fascistic_idolg_BEL;Rex;Rex;Rex;;Rex;;;;;;;;;x
 paternal_auto_idolg_BEL;VNV;VNV;VNV;;VNV;;;;;;;;;x
 social_cons_idolg_BEL;Katholieke Unie-Union Catholique;Katholieke Unie-Union Catholique;Katholieke Unie-Union Catholique;;Katholieke Unie-Union Catholique;;;;;;;;;x
-market_liberal_idolg_BEL;Liberale Partij-Parti Libéral;Liberale Partij-Parti Libéral;Liberale Partij-Parti Libéral;;Liberale Partij-Parti Libéral;;;;;;;;;x
-social_liberal_idolg_BEL;Afgescheurde Liberalen-Libéraux Déchirés;Afgescheurde Liberalen-Libéraux Déchirés;Afgescheurde Liberalen-Libéraux Déchirés;;Afgescheurde Liberalen-Libéraux Déchirés;;;;;;;;;x
+market_liberal_idolg_BEL;Liberale Partij-Parti Libï¿½ral;Liberale Partij-Parti Libï¿½ral;Liberale Partij-Parti Libï¿½ral;;Liberale Partij-Parti Libï¿½ral;;;;;;;;;x
+social_liberal_idolg_BEL;Afgescheurde Liberalen-Libï¿½raux Dï¿½chirï¿½s;Afgescheurde Liberalen-Libï¿½raux Dï¿½chirï¿½s;Afgescheurde Liberalen-Libï¿½raux Dï¿½chirï¿½s;;Afgescheurde Liberalen-Libï¿½raux Dï¿½chirï¿½s;;;;;;;;;x
 social_democrat_idolg_BEL;BWP-BOP;BWP-BOP;BWP-BOP;;BWP-BOP;;;;;;;;;x
 left_wing_radical_idolg_BEL;Rev.Soc.Actie-Action Soc.Rev.;Rev.Soc.Actie-Action Soc.Rev.;Rev.Soc.Actie-Action Soc.Rev.;;Rev.Soc.Actie-Action Soc.Rev.;;;;;;;;;x
 maoist_idolg_BEL;Lijst Van Overstraeten-Liste Van Overstraeten;Lijst Van Overstraeten-Liste Van Overstraeten;Lijst Van Overstraeten-Liste Van Overstraeten;;Lijst Van Overstraeten-Liste Van Overstraeten;;;;;;;;;x
@@ -162,15 +162,15 @@ social_democrat_idolg_BHM;Social Democratic Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_BHM;Labor Party;;;;;;;;;;;;;x
 maoist_idolg_BHM;Vanguard Nationalist and Socialist Party;;;;;;;;;;;;;x
 communist_idolg_BHM;Workers' Party;;;;;;;;;;;;;x
-fascistic_idolg_BHU;Bhutan Fascist League;Ligue fasciste du Bhoutan;Faschistische Liga Bhutan;;Liga Fascista de Bután;;;;;;;;;x
-paternal_auto_idolg_BHU;Bhutan Peace and Prosperity Party;Parti de la paix et de la prospérité du Bhoutan;Friedens- und Wohlstandspartei Bhutans;;Partido de la Paz y la Prosperidad de Bután;;;;;;;;;x
-social_cons_idolg_BHU;Bhutan Conservative Party;Parti conservateur du Bhoutan;Konservative Partei Bhutans;;Partido Conservador de Bután;;;;;;;;;x
-market_liberal_idolg_BHU;Bhutan National Democratic Party ;Parti national démocratique du Bhoutan;Nationaldemokratische Partei Bhutans;;Partido Nacional Demócrata de Bután ;;;;;;;;;x
-social_liberal_idolg_BHU;Bhutan National Congress Party;Parti national du Congrès du Bhoutan;Nationalkongresspartei Bhutans;;Partido del Congreso Nacional de Bután;;;;;;;;;x
-social_democrat_idolg_BHU;People's Democratic Party;Parti démocratique populaire;Demokratische Volkspartei;;Partido Democrátrico del Pueblo;;;;;;;;;x
-left_wing_radical_idolg_BHU;Bhutan Peoples' Party;Parti du peuple du Bhoutan;Bhutanische Volkspartei;;Partido del Pueblo de Bután;;;;;;;;;x
-maoist_idolg_BHU;Bhutan Communist Party;Parti communiste du Bhoutan;Kommunistische Partei Bhutans;;Partido Comunista de Bután;;;;;;;;;x
-communist_idolg_BHU;Communist Party of Bhutan;Parti communiste bhoutanais;Kommunistische Partei von Bhutan;;Partido Comunista de Bután;;;;;;;;;x
+fascistic_idolg_BHU;Bhutan Fascist League;Ligue fasciste du Bhoutan;Faschistische Liga Bhutan;;Liga Fascista de Butï¿½n;;;;;;;;;x
+paternal_auto_idolg_BHU;Bhutan Peace and Prosperity Party;Parti de la paix et de la prospï¿½ritï¿½ du Bhoutan;Friedens- und Wohlstandspartei Bhutans;;Partido de la Paz y la Prosperidad de Butï¿½n;;;;;;;;;x
+social_cons_idolg_BHU;Bhutan Conservative Party;Parti conservateur du Bhoutan;Konservative Partei Bhutans;;Partido Conservador de Butï¿½n;;;;;;;;;x
+market_liberal_idolg_BHU;Bhutan National Democratic Party ;Parti national dï¿½mocratique du Bhoutan;Nationaldemokratische Partei Bhutans;;Partido Nacional Demï¿½crata de Butï¿½n ;;;;;;;;;x
+social_liberal_idolg_BHU;Bhutan National Congress Party;Parti national du Congrï¿½s du Bhoutan;Nationalkongresspartei Bhutans;;Partido del Congreso Nacional de Butï¿½n;;;;;;;;;x
+social_democrat_idolg_BHU;People's Democratic Party;Parti dï¿½mocratique populaire;Demokratische Volkspartei;;Partido Democrï¿½trico del Pueblo;;;;;;;;;x
+left_wing_radical_idolg_BHU;Bhutan Peoples' Party;Parti du peuple du Bhoutan;Bhutanische Volkspartei;;Partido del Pueblo de Butï¿½n;;;;;;;;;x
+maoist_idolg_BHU;Bhutan Communist Party;Parti communiste du Bhoutan;Kommunistische Partei Bhutans;;Partido Comunista de Butï¿½n;;;;;;;;;x
+communist_idolg_BHU;Communist Party of Bhutan;Parti communiste bhoutanais;Kommunistische Partei von Bhutan;;Partido Comunista de Butï¿½n;;;;;;;;;x
 fascistic_idolg_BIF;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_BIF;Democratic Republican Party;;;;;;;;;;;;;x
 social_cons_idolg_BIF;Democratic Justice Party;;;;;;;;;;;;;x
@@ -209,7 +209,7 @@ maoist_idolg_BLZ;PAC;;;;;;;;;;;;;x
 communist_idolg_BLZ;Communist Party of Belize;;;;;;;;;;;;;x
 fascistic_idolg_BOL;Falange Socialista Boliviana;Falange Socialista Boliviana;Falange Socialista Boliviana;;Falange Socialista Boliviana;;;;;;;;;x
 paternal_auto_idolg_BOL;Nueva Fuerza Republicana;Nueva Fuerza Republicana;Nueva Fuerza Republicana;;Nueva Fuerza Republicana;;;;;;;;;x
-social_cons_idolg_BOL;Unidad Cívica Solidaridad;Unidad Cívica Solidaridad;Unidad Cívica Solidaridad;;Unidad Cívica Solidaridad;;;;;;;;;x
+social_cons_idolg_BOL;Unidad Cï¿½vica Solidaridad;Unidad Cï¿½vica Solidaridad;Unidad Cï¿½vica Solidaridad;;Unidad Cï¿½vica Solidaridad;;;;;;;;;x
 market_liberal_idolg_BOL;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;;x
 social_liberal_idolg_BOL;Movimiento Nacionalista Revolucionario;Movimiento Nacionalista Revolucionario;Movimiento Nacionalista Revolucionario;;Movimiento Nacionalista Revolucionario;;;;;;;;;x
 social_democrat_idolg_BOL;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;;x
@@ -234,21 +234,21 @@ social_democrat_idolg_BOT;Botswana Congress Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_BOT;International Socialist Organization;;;;;;;;;;;;;x
 maoist_idolg_BOT;Botswana People's Party;;;;;;;;;;;;;x
 communist_idolg_BOT;Marx, Engels, Lenin, Stalin Movement;;;;;;;;;;;;;x
-fascistic_idolg_BRA;Ação Integralista Brasileira;Ação Integralista Brasileira;Ação Integralista Brasileira;;Ação Integralista Brasileira;;;;;;;;;x
-paternal_auto_idolg_BRA;Estado Nôvo;Estado Nôvo;Estado Nôvo;;Estado Nôvo;;;;;;;;;x
-social_cons_idolg_BRA;Partido de Representação Popular;Partido de Representação Popular;Partido de Representação Popular;;Partido de Representação Popular;;;;;;;;;x
-market_liberal_idolg_BRA;União Democrática Nacional;União Democrática Nacional;União Democrática Nacional;;União Democrática Nacional;;;;;;;;;x
-social_liberal_idolg_BRA;Partido Social Democrático;Partido Social Democrático;Partido Social Democrático;;Partido Social Democrático;;;;;;;;;x
+fascistic_idolg_BRA;Aï¿½ï¿½o Integralista Brasileira;Aï¿½ï¿½o Integralista Brasileira;Aï¿½ï¿½o Integralista Brasileira;;Aï¿½ï¿½o Integralista Brasileira;;;;;;;;;x
+paternal_auto_idolg_BRA;Estado Nï¿½vo;Estado Nï¿½vo;Estado Nï¿½vo;;Estado Nï¿½vo;;;;;;;;;x
+social_cons_idolg_BRA;Partido de Representaï¿½ï¿½o Popular;Partido de Representaï¿½ï¿½o Popular;Partido de Representaï¿½ï¿½o Popular;;Partido de Representaï¿½ï¿½o Popular;;;;;;;;;x
+market_liberal_idolg_BRA;Uniï¿½o Democrï¿½tica Nacional;Uniï¿½o Democrï¿½tica Nacional;Uniï¿½o Democrï¿½tica Nacional;;Uniï¿½o Democrï¿½tica Nacional;;;;;;;;;x
+social_liberal_idolg_BRA;Partido Social Democrï¿½tico;Partido Social Democrï¿½tico;Partido Social Democrï¿½tico;;Partido Social Democrï¿½tico;;;;;;;;;x
 social_democrat_idolg_BRA;Partido Trabalhista Brasileiro;Partido Trabalhista Brasileiro;Partido Trabalhista Brasileiro;;Partido Trabalhista Brasileiro;;;;;;;;;x
 left_wing_radical_idolg_BRA;Partido Socialismo e Liberdade;Partido Socialismo e Liberdade;Partido Socialismo e Liberdade;;Partido Socialismo e Liberdade;;;;;;;;;x
 maoist_idolg_BRA;Partido Comunista do Brasil;Partido Comunista do Brasil;Partido Comunista do Brasil;;Partido Comunista do Brasil;;;;;;;;;x
 communist_idolg_BRA;Partido Comunista Brasileiro;Partido Comunista Brasileiro;Partido Comunista Brasileiro;;Partido Comunista Brasileiro;;;;;;;;;x
 fascistic_idolg_BRD;UPRONA;;;;;;;;;;;;;x
 paternal_auto_idolg_BRD;CNDD;;;;;;;;;;;;;x
-social_cons_idolg_BRD;NCDD–FDD;;;;;;;;;;;;;x
+social_cons_idolg_BRD;NCDDï¿½FDD;;;;;;;;;;;;;x
 market_liberal_idolg_BRD;FRODEBU;;;;;;;;;;;;;x
 social_liberal_idolg_BRD;PARENA;;;;;;;;;;;;;x
-social_democrat_idolg_BRD;MRC–Rurenzangemero;;;;;;;;;;;;;x
+social_democrat_idolg_BRD;MRCï¿½Rurenzangemero;;;;;;;;;;;;;x
 left_wing_radical_idolg_BRD;Burundi Socialist Front;;;;;;;;;;;;;x
 maoist_idolg_BRD;Worker's Party of Burundi;;;;;;;;;;;;;x
 communist_idolg_BRD;Communist Party of Burundi;;;;;;;;;;;;;x
@@ -306,40 +306,40 @@ social_democrat_idolg_CAL;Peace and Freedom Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_CAL;People's Democratic Party;;;;;;;;;;;;;x
 maoist_idolg_CAL;California People's Party;;;;;;;;;;;;;x
 communist_idolg_CAL;California Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_CAM;Mouvement pour la Défense de la République;;;;;;;;;;;;;x
-paternal_auto_idolg_CAM;Union Nationale pour la Démocratie et le Progrès;;;;;;;;;;;;;x
-social_cons_idolg_CAM;Rassemblement Démocratique du Peuple Camerounais;;;;;;;;;;;;;x
-market_liberal_idolg_CAM;Union Démocratique du Cameroun;;;;;;;;;;;;;x
-social_liberal_idolg_CAM;Parti des Démocrates Camerounais;;;;;;;;;;;;;x
-social_democrat_idolg_CAM;Front Social-Démocratique;;;;;;;;;;;;;x
+fascistic_idolg_CAM;Mouvement pour la Dï¿½fense de la Rï¿½publique;;;;;;;;;;;;;x
+paternal_auto_idolg_CAM;Union Nationale pour la Dï¿½mocratie et le Progrï¿½s;;;;;;;;;;;;;x
+social_cons_idolg_CAM;Rassemblement Dï¿½mocratique du Peuple Camerounais;;;;;;;;;;;;;x
+market_liberal_idolg_CAM;Union Dï¿½mocratique du Cameroun;;;;;;;;;;;;;x
+social_liberal_idolg_CAM;Parti des Dï¿½mocrates Camerounais;;;;;;;;;;;;;x
+social_democrat_idolg_CAM;Front Social-Dï¿½mocratique;;;;;;;;;;;;;x
 left_wing_radical_idolg_CAM;Union des Populations du Cameroun;;;;;;;;;;;;;x
 maoist_idolg_CAM;Cameroon Peoples' Party;;;;;;;;;;;;;x
 communist_idolg_CAM;Cameroon Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_CAN;Canadian Union of Fascists;Union canadienne des fascistes;Canadian Union of Fascists;;Unión Canadiense de Fascistas;;;;;;;;;x
-paternal_auto_idolg_CAN;Reconstruction Party;Parti de la reconstruction du Canada;Reconstruction Party;;Partido de la Reconstrucción;;;;;;;;;x
-social_cons_idolg_CAN;Social Credit Party;Parti Crédit social;Social Credit Party;;Partido del Crédito Social;;;;;;;;;x
+fascistic_idolg_CAN;Canadian Union of Fascists;Union canadienne des fascistes;Canadian Union of Fascists;;Uniï¿½n Canadiense de Fascistas;;;;;;;;;x
+paternal_auto_idolg_CAN;Reconstruction Party;Parti de la reconstruction du Canada;Reconstruction Party;;Partido de la Reconstrucciï¿½n;;;;;;;;;x
+social_cons_idolg_CAN;Social Credit Party;Parti Crï¿½dit social;Social Credit Party;;Partido del Crï¿½dito Social;;;;;;;;;x
 market_liberal_idolg_CAN;Conservative Party;Parti conservateur;Conservative Party;;Partido Conservador;;;;;;;;;x
-social_liberal_idolg_CAN;Liberal Party;Parti libéral;Liberal Party;;Partido Liberal;;;;;;;;;x
-social_democrat_idolg_CAN;Co-operative Commonwealth Federation;Fédération du commonwealth coopératif;Co-operative Commonwealth Federation;;Federación Cooperativa de la Commonwealth;;;;;;;;;x
-left_wing_radical_idolg_CAN;Independent Labour Party;Parti travailliste indépendant;Independent Labour Party;;Partido Laborista Independiente;;;;;;;;;x
-maoist_idolg_CAN;Workers' Party of Canada;Parti communiste du Canada;Workers' Party of Canada;;Partido de los Trabajadores de Canadá;;;;;;;;;x
+social_liberal_idolg_CAN;Liberal Party;Parti libï¿½ral;Liberal Party;;Partido Liberal;;;;;;;;;x
+social_democrat_idolg_CAN;Co-operative Commonwealth Federation;Fï¿½dï¿½ration du commonwealth coopï¿½ratif;Co-operative Commonwealth Federation;;Federaciï¿½n Cooperativa de la Commonwealth;;;;;;;;;x
+left_wing_radical_idolg_CAN;Independent Labour Party;Parti travailliste indï¿½pendant;Independent Labour Party;;Partido Laborista Independiente;;;;;;;;;x
+maoist_idolg_CAN;Workers' Party of Canada;Parti communiste du Canada;Workers' Party of Canada;;Partido de los Trabajadores de Canadï¿½;;;;;;;;;x
 communist_idolg_CAN;Communist Party;Parti communiste;Communist Party;;Partido Comunista;;;;;;;;;x
 fascistic_idolg_CAR;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_CAR;"Convergence Nationale ""Kwa Na Kwa""";;;;;;;;;;;;;x
-social_cons_idolg_CAR;Front Patriotique pour le Progrès;;;;;;;;;;;;;x
-market_liberal_idolg_CAR;Alliance pour la Démocratie et le Progrès;;;;;;;;;;;;;x
-social_liberal_idolg_CAR;Mouvement pour la Libération du Peuple Centrafricain;;;;;;;;;;;;;x
-social_democrat_idolg_CAR;Parti Social Démocratique;;;;;;;;;;;;;x
+social_cons_idolg_CAR;Front Patriotique pour le Progrï¿½s;;;;;;;;;;;;;x
+market_liberal_idolg_CAR;Alliance pour la Dï¿½mocratie et le Progrï¿½s;;;;;;;;;;;;;x
+social_liberal_idolg_CAR;Mouvement pour la Libï¿½ration du Peuple Centrafricain;;;;;;;;;;;;;x
+social_democrat_idolg_CAR;Parti Social Dï¿½mocratique;;;;;;;;;;;;;x
 left_wing_radical_idolg_CAR;People's Democratic Party;;;;;;;;;;;;;x
 maoist_idolg_CAR;Central African Republic Peoples' Party;;;;;;;;;;;;;x
 communist_idolg_CAR;Central African Republic Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_CAT;Estat Català;;;;;;;;;;;;;x
+fascistic_idolg_CAT;Estat Catalï¿½;;;;;;;;;;;;;x
 paternal_auto_idolg_CAT;Alianza Popular;;;;;;;;;;;;;x
-social_cons_idolg_CAT;Partit Catalanista Republicà;;;;;;;;;;;;;x
-market_liberal_idolg_CAT;Unión de Centro Democrático;;;;;;;;;;;;;x
-social_liberal_idolg_CAT;Convergència i Unió;;;;;;;;;;;;;x
-social_democrat_idolg_CAT;Partit Nacionalista Republicà d'Esquerra;;;;;;;;;;;;;x
-left_wing_radical_idolg_CAT;Unió Socialista de Catalunya;;;;;;;;;;;;;x
+social_cons_idolg_CAT;Partit Catalanista Republicï¿½;;;;;;;;;;;;;x
+market_liberal_idolg_CAT;Uniï¿½n de Centro Democrï¿½tico;;;;;;;;;;;;;x
+social_liberal_idolg_CAT;Convergï¿½ncia i Uniï¿½;;;;;;;;;;;;;x
+social_democrat_idolg_CAT;Partit Nacionalista Republicï¿½ d'Esquerra;;;;;;;;;;;;;x
+left_wing_radical_idolg_CAT;Uniï¿½ Socialista de Catalunya;;;;;;;;;;;;;x
 maoist_idolg_CAT;Partit Popular de Catalunya;;;;;;;;;;;;;x
 communist_idolg_CAT;Partit Socialista Unificat de Catalunya;;;;;;;;;;;;;x
 fascistic_idolg_CAY;Fascist Front;;;;;;;;;;;;;x
@@ -352,10 +352,10 @@ left_wing_radical_idolg_CAY;People's Party;;;;;;;;;;;;;x
 maoist_idolg_CAY;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_CAY;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_CDI;Mouvement des Forces de l'Avenir;;;;;;;;;;;;;x
-paternal_auto_idolg_CDI;Alliance pour une Nouvelle Côte d'Ivoire;;;;;;;;;;;;;x
-social_cons_idolg_CDI;Parti Démocratique de la Côte d'Ivoire;;;;;;;;;;;;;x
-market_liberal_idolg_CDI;Union des Démocrates de Côte d'Ivoire;;;;;;;;;;;;;x
-social_liberal_idolg_CDI;Rassemblement des Républicains;;;;;;;;;;;;;x
+paternal_auto_idolg_CDI;Alliance pour une Nouvelle Cï¿½te d'Ivoire;;;;;;;;;;;;;x
+social_cons_idolg_CDI;Parti Dï¿½mocratique de la Cï¿½te d'Ivoire;;;;;;;;;;;;;x
+market_liberal_idolg_CDI;Union des Dï¿½mocrates de Cï¿½te d'Ivoire;;;;;;;;;;;;;x
+social_liberal_idolg_CDI;Rassemblement des Rï¿½publicains;;;;;;;;;;;;;x
 social_democrat_idolg_CDI;Front Populaire Ivoirien;;;;;;;;;;;;;x
 left_wing_radical_idolg_CDI;Parti Ivoirien des Travailleurs;;;;;;;;;;;;;x
 maoist_idolg_CDI;Workers' Party of Ivory Coast;;;;;;;;;;;;;x
@@ -370,12 +370,12 @@ left_wing_radical_idolg_CGX;Revolutionary Committee of KMT;;;;;;;;;;;;;x
 maoist_idolg_CGX;Chinese Workers and Peasants Party;Parti des travailleurs et des paysans chinois;Chinesische Arbeiter- und Bauernpartei;;Partido Trabajadores y Campesinos de China;;;;;;;;;x
 communist_idolg_CGX;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei Chinas;;Partido Comunista Chino;;;;;;;;;x
 fascistic_idolg_CHA;Mouvement patriotique de salut;;;;;;;;;;;;;x
-paternal_auto_idolg_CHA;Union pour le Rénouveau et la Démocratie;;;;;;;;;;;;;x
+paternal_auto_idolg_CHA;Union pour le Rï¿½nouveau et la Dï¿½mocratie;;;;;;;;;;;;;x
 social_cons_idolg_CHA;Democratic Justice Party;;;;;;;;;;;;;x
 market_liberal_idolg_CHA;Liberal Party;;;;;;;;;;;;;x
 social_liberal_idolg_CHA;Democratic Party;;;;;;;;;;;;;x
-social_democrat_idolg_CHA;Convention National Démocratique et Sociale;;;;;;;;;;;;;x
-left_wing_radical_idolg_CHA;Mouvement Populaire pour la Démocratie au Tchad;;;;;;;;;;;;;x
+social_democrat_idolg_CHA;Convention National Dï¿½mocratique et Sociale;;;;;;;;;;;;;x
+left_wing_radical_idolg_CHA;Mouvement Populaire pour la Dï¿½mocratie au Tchad;;;;;;;;;;;;;x
 maoist_idolg_CHA;Workers' Party of Chad;;;;;;;;;;;;;x
 communist_idolg_CHA;Communist Party of Chad;;;;;;;;;;;;;x
 fascistic_idolg_CHC;Blue Shirts Society;Parti de la jeunesse chinoise;Chinesische Jugendpartei;;Partido de la Juventud de China;;;;;;;;;x
@@ -398,7 +398,7 @@ maoist_idolg_CHI;Chinese Workers and Peasants Party;Parti des travailleurs et de
 communist_idolg_CHI;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei Chinas;;Partido Comunista Chino;;;;;;;;;x
 fascistic_idolg_CHL;Falange de Chile;Falange de Chile;Falange de Chile;;Falange de Chile;;;;;;;;;x
 paternal_auto_idolg_CHL;Partido Conservador;Partido Conservador;Partido Conservador;;Partido Conservador;;;;;;;;;x
-social_cons_idolg_CHL;Partido Demócrata Cristiano de Chile;Partido Demócrata Cristiano de Chile;Partido Demócrata Cristiano de Chile;;Partido Demócrata Cristiano de Chile;;;;;;;;;x
+social_cons_idolg_CHL;Partido Demï¿½crata Cristiano de Chile;Partido Demï¿½crata Cristiano de Chile;Partido Demï¿½crata Cristiano de Chile;;Partido Demï¿½crata Cristiano de Chile;;;;;;;;;x
 market_liberal_idolg_CHL;Partido Nacional;Partido Nacional;Partido Nacional;;Partido Nacional;;;;;;;;;x
 social_liberal_idolg_CHL;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;;x
 social_democrat_idolg_CHL;Partido Socialista de Chile;Partido Socialista de Chile;Partido Socialista de Chile;;Partido Socialista de Chile;;;;;;;;;x
@@ -420,51 +420,51 @@ social_cons_idolg_CMB;LDP;;;;;;;;;;;;;x
 market_liberal_idolg_CMB;Kanakpak Norodom Ranariddh;;;;;;;;;;;;;x
 social_liberal_idolg_CMB;Sangkum Cheat Niyum;;;;;;;;;;;;;x
 social_democrat_idolg_CMB;Kanakpak Sam Rainsy;;;;;;;;;;;;;x
-left_wing_radical_idolg_CMB;Kanakpak Pracheachon Kâmpuchéa;;;;;;;;;;;;;x
+left_wing_radical_idolg_CMB;Kanakpak Pracheachon Kï¿½mpuchï¿½a;;;;;;;;;;;;;x
 maoist_idolg_CMB;Workers' Party of Cambodia;;;;;;;;;;;;;x
 communist_idolg_CMB;Communist Party of Cambodia;;;;;;;;;;;;;x
 fascistic_idolg_COL;Falange del Colombia;Falange del Colombia;Falange del Colombia;;Falange de Colombia;;;;;;;;;x
-paternal_auto_idolg_COL;Acción Nacional;Acción Nacional;Acción Nacional;;Acción Nacional;;;;;;;;;x
+paternal_auto_idolg_COL;Acciï¿½n Nacional;Acciï¿½n Nacional;Acciï¿½n Nacional;;Acciï¿½n Nacional;;;;;;;;;x
 social_cons_idolg_COL;Partido Conservador Colombiano;Partido Conservador Colombiano;Partido Conservador Colombiano;;Partido Conservador Colombiano;;;;;;;;;x
 market_liberal_idolg_COL;Partido Liberal Radical Colombiano;Partido Liberal Radical Colombiano;Partido Liberal Radical Colombiano;;Partido Liberal Radical Colombiano;;;;;;;;;x
 social_liberal_idolg_COL;Partido Liberal Colombiano;Partido Liberal Colombiano;Partido Liberal Colombiano;;Partido Liberal Colombiano;;;;;;;;;x
-social_democrat_idolg_COL;Partido Socialdemócrata Colombiano;Partido Socialdemócrata Colombiano;Partido Socialdemócrata Colombiano;;Partido Socialdemócrata Colombiano;;;;;;;;;x
+social_democrat_idolg_COL;Partido Socialdemï¿½crata Colombiano;Partido Socialdemï¿½crata Colombiano;Partido Socialdemï¿½crata Colombiano;;Partido Socialdemï¿½crata Colombiano;;;;;;;;;x
 left_wing_radical_idolg_COL;Partido de los Trabajadores del Colombia;Partido de los Trabajadores del Colombia;Partido de los Trabajadores del Colombia;;Partido de los Trabajadores del Colombia;;;;;;;;;x
 maoist_idolg_COL;Partido Comunista Marxista-maoist_idolga del Colombia;Partido Comunista Marxista-maoist_idolga del Colombia;Partido Comunista Marxista-maoist_idolga del Colombia;;Partido Comunista Marxista-maoist_idolga de Colombia;;;;;;;;;x
 communist_idolg_COL;Partido Comunista del Colombia;Partido Comunista del Colombia;Partido Comunista del Colombia;;Partido Comunista de Colombia;;;;;;;;;x
 fascistic_idolg_COM;Forum for National Redress;;;;;;;;;;;;;x
 paternal_auto_idolg_COM;National Front for Justice;;;;;;;;;;;;;x
 social_cons_idolg_COM;Convention pour le Renouveau des Comores;;;;;;;;;;;;;x
-market_liberal_idolg_COM;Camp des Îles Autonomes;;;;;;;;;;;;;x
+market_liberal_idolg_COM;Camp des ï¿½les Autonomes;;;;;;;;;;;;;x
 social_liberal_idolg_COM;Democratic Party;;;;;;;;;;;;;x
 social_democrat_idolg_COM;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_COM;Movement for Socialism and Democracy;;;;;;;;;;;;;x
 maoist_idolg_COM;Workers' Party of Comoros;;;;;;;;;;;;;x
 communist_idolg_COM;Communist Party of Comoros;;;;;;;;;;;;;x
 fascistic_idolg_CNG;Fascist Front;;;;;;;;;;;;;x
-paternal_auto_idolg_CNG;Union pour la Renouveau Démocratique;;;;;;;;;;;;;x
-social_cons_idolg_CNG;Forces Démocratiques Unies;;;;;;;;;;;;;x
-market_liberal_idolg_CNG;Mouvement Congolais pour la Démocratie et le Développement Intégral;;;;;;;;;;;;;x
-social_liberal_idolg_CNG;Union pour la Démocratie et la République-Mwinda;;;;;;;;;;;;;x
-social_democrat_idolg_CNG;Union Panafricaine pour la Démocratie Sociale;;;;;;;;;;;;;x
-left_wing_radical_idolg_CNG;Rassemblement pour la Démocratie et le Développement;;;;;;;;;;;;;x
+paternal_auto_idolg_CNG;Union pour la Renouveau Dï¿½mocratique;;;;;;;;;;;;;x
+social_cons_idolg_CNG;Forces Dï¿½mocratiques Unies;;;;;;;;;;;;;x
+market_liberal_idolg_CNG;Mouvement Congolais pour la Dï¿½mocratie et le Dï¿½veloppement Intï¿½gral;;;;;;;;;;;;;x
+social_liberal_idolg_CNG;Union pour la Dï¿½mocratie et la Rï¿½publique-Mwinda;;;;;;;;;;;;;x
+social_democrat_idolg_CNG;Union Panafricaine pour la Dï¿½mocratie Sociale;;;;;;;;;;;;;x
+left_wing_radical_idolg_CNG;Rassemblement pour la Dï¿½mocratie et le Dï¿½veloppement;;;;;;;;;;;;;x
 maoist_idolg_CNG;People's Party of Republic of the Congo;;;;;;;;;;;;;x
 communist_idolg_CNG;Parti Congolais du Travail;;;;;;;;;;;;;x
 fascistic_idolg_COS;Falange de Costa Rica;Falange de Costa Rica;Falange de Costa Rica;;Falange de Costa Rica;;;;;;;;;x
 paternal_auto_idolg_COS;Partido Republicano Nacional;Partido Republicano Nacional;Partido Republicano Nacional;;Partido Republicano Nacional;;;;;;;;;x
 social_cons_idolg_COS;Partido de Unidad Socialcristiana;Partido de Unidad Socialcristiana;Partido de Unidad Socialcristiana;;Partido de Unidad Socialcristiana;;;;;;;;;x
 market_liberal_idolg_COS;Partido Movimiento Libertario;Partido Movimiento Libertario;Partido Movimiento Libertario;;Partido Movimiento Libertario;;;;;;;;;x
-social_liberal_idolg_COS;Partido Liberación Nacional;Partido Liberación Nacional;Partido Liberación Nacional;;Partido Liberación Nacional;;;;;;;;;x
+social_liberal_idolg_COS;Partido Liberaciï¿½n Nacional;Partido Liberaciï¿½n Nacional;Partido Liberaciï¿½n Nacional;;Partido Liberaciï¿½n Nacional;;;;;;;;;x
 social_democrat_idolg_COS;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;;x
 left_wing_radical_idolg_COS;Partido Vanguardia Popular;Partido Vanguardia Popular;Partido Vanguardia Popular;;Partido Vanguardia Popular;;;;;;;;;x
-maoist_idolg_COS;Partido Acción Socialist Obrera;Partido Acción Socialist Obrera;Partido Acción Socialist Obrera;;Partido Acción Socialista Obrera;;;;;;;;;x
+maoist_idolg_COS;Partido Acciï¿½n Socialist Obrera;Partido Acciï¿½n Socialist Obrera;Partido Acciï¿½n Socialist Obrera;;Partido Acciï¿½n Socialista Obrera;;;;;;;;;x
 communist_idolg_COS;Partido Comunista de Costa Rica;Partido Comunista de Costa Rica;Partido Comunista de Costa Rica;;Partido Comunista de Costa Rica;;;;;;;;;x
 fascistic_idolg_CPV;Fronte Fascista;;;;;;;;;;;;;x
-paternal_auto_idolg_CPV;União Caboverdiana Independente e Democrática;;;;;;;;;;;;;x
-social_cons_idolg_CPV;Partido da Convergência Democrática;;;;;;;;;;;;;x
+paternal_auto_idolg_CPV;Uniï¿½o Caboverdiana Independente e Democrï¿½tica;;;;;;;;;;;;;x
+social_cons_idolg_CPV;Partido da Convergï¿½ncia Democrï¿½tica;;;;;;;;;;;;;x
 market_liberal_idolg_CPV;Movimento para a Democracia;;;;;;;;;;;;;x
-social_liberal_idolg_CPV;Partido Africano da Independência de Cabo Verde;;;;;;;;;;;;;x
-social_democrat_idolg_CPV;Partido Social Democrático;;;;;;;;;;;;;x
+social_liberal_idolg_CPV;Partido Africano da Independï¿½ncia de Cabo Verde;;;;;;;;;;;;;x
+social_democrat_idolg_CPV;Partido Social Democrï¿½tico;;;;;;;;;;;;;x
 left_wing_radical_idolg_CPV;Partido de Trabalho e Solidariedade;;;;;;;;;;;;;x
 maoist_idolg_CPV;Partido Trabalhador;;;;;;;;;;;;;x
 communist_idolg_CPV;Partido Comunista;;;;;;;;;;;;;x
@@ -496,9 +496,9 @@ left_wing_radical_idolg_CSX;Revolutionary Committee of KMT;;;;;;;;;;;;;x
 maoist_idolg_CSX;Chinese Workers and Peasants Party;Parti des travailleurs et des paysans chinois;Chinesische Arbeiter- und Bauernpartei;;Partido Trabajadores y Campesinos de China;;;;;;;;;x
 communist_idolg_CSX;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei Chinas;;Partido Comunista Chino;;;;;;;;;x
 fascistic_idolg_CUB;Falange de Cuba;Falange de Cuba;Falange de Cuba;;Falange de Cuba;;;;;;;;;x
-paternal_auto_idolg_CUB;Partido Auténtico;Partido Auténtico;Partido Auténtico;;Partido Auténtico;;;;;;;;;x
-social_cons_idolg_CUB;Partido Demócrata Cristiano de Cuba;Partido Demócrata Cristiano de Cuba;Partido Demócrata Cristiano de Cuba;;Partido Demócrata Cristiano de Cuba;;;;;;;;;x
-market_liberal_idolg_CUB;Unión Liberal Cubana;Unión Liberal Cubana;Unión Liberal Cubana;;Unión Liberal Cubana;;;;;;;;;x
+paternal_auto_idolg_CUB;Partido Autï¿½ntico;Partido Autï¿½ntico;Partido Autï¿½ntico;;Partido Autï¿½ntico;;;;;;;;;x
+social_cons_idolg_CUB;Partido Demï¿½crata Cristiano de Cuba;Partido Demï¿½crata Cristiano de Cuba;Partido Demï¿½crata Cristiano de Cuba;;Partido Demï¿½crata Cristiano de Cuba;;;;;;;;;x
+market_liberal_idolg_CUB;Uniï¿½n Liberal Cubana;Uniï¿½n Liberal Cubana;Uniï¿½n Liberal Cubana;;Uniï¿½n Liberal Cubana;;;;;;;;;x
 social_liberal_idolg_CUB;Movimiento Liberal Cubano;Movimiento Liberal Cubano;Movimiento Liberal Cubano;;Movimiento Liberal Cubano;;;;;;;;;x
 social_democrat_idolg_CUB;PSRDC;PSRDC;PSRDC;;PSRDC;;;;;;;;;x
 left_wing_radical_idolg_CUB;Partido Ortodoxo;Partido Ortodoxo;Partido Ortodoxo;;Partido Ortodoxo;;;;;;;;;x
@@ -531,20 +531,20 @@ social_democrat_idolg_CYP;Movement for Social Democracy;;;;;;;;;;;;;x
 left_wing_radical_idolg_CYP;People's Party of Cyprus;;;;;;;;;;;;;x
 maoist_idolg_CYP;Workers' Party of Cyprus;;;;;;;;;;;;;x
 communist_idolg_CYP;Progressive Party of Working People;;;;;;;;;;;;;x
-fascistic_idolg_CZE;Národní Obec Faszisticka;Národní Obec Faszisticka;Národní Obec Faszisticka;;Národní obec faszisticka;;;;;;;;;x
-paternal_auto_idolg_CZE;Hlinkova Slovenská Ludová Strana;Hlinkova Slovenská Ludová Strana;Hlinkova Slovenská Ludová Strana;;Hlinkova slovenská ludová strana;;;;;;;;;x
-social_cons_idolg_CZE;Ceskoslovenská Strana Lidová;Ceskoslovenská Strana Lidová;Ceskoslovenská Strana Lidová;;Ceskoslovenská strana lidová;;;;;;;;;x
-market_liberal_idolg_CZE;Ceskoslovenská Národní Demokracie;Ceskoslovenská Národní Demokracie;Ceskoslovenská Národní Demokracie;;Ceskoslovenská národní demokracie;;;;;;;;;x
-social_liberal_idolg_CZE;Ceskoslovenská Strana Národne Socialistická;Ceskoslovenská Strana Národne Socialistická;Ceskoslovenská Strana Národne Socialistická;;Ceskoslovenská strana národne socialistická;;;;;;;;;x
-social_democrat_idolg_CZE;Agrární Strana;Agrární Strana;Agrární Strana;;Agrární strana;;;;;;;;;x
-left_wing_radical_idolg_CZE;Ceskoslovenská Sociálne Demokratická Strana Delnická;Ceskoslovenská Sociálne Demokratická Strana Delnická;Ceskoslovenská Sociálne Demokratická Strana Delnická;;Ceskoslovenská sociálne demokratická strana delnická;;;;;;;;;x
-maoist_idolg_CZE;Ceskoslovenska Komunistická Strana;Ceskoslovenska Komunistická Strana;Ceskoslovenska Komunistická Strana;;Ceskoslovenska Komunistická strana;;;;;;;;;x
-communist_idolg_CZE;Komunistická Strana Ceskoslovenska;Komunistická Strana Ceskoslovenska;Komunistická Strana Ceskoslovenska;;Komunistická strana Ceskoslovenska;;;;;;;;;x
+fascistic_idolg_CZE;Nï¿½rodnï¿½ Obec Faszisticka;Nï¿½rodnï¿½ Obec Faszisticka;Nï¿½rodnï¿½ Obec Faszisticka;;Nï¿½rodnï¿½ obec faszisticka;;;;;;;;;x
+paternal_auto_idolg_CZE;Hlinkova Slovenskï¿½ Ludovï¿½ Strana;Hlinkova Slovenskï¿½ Ludovï¿½ Strana;Hlinkova Slovenskï¿½ Ludovï¿½ Strana;;Hlinkova slovenskï¿½ ludovï¿½ strana;;;;;;;;;x
+social_cons_idolg_CZE;Ceskoslovenskï¿½ Strana Lidovï¿½;Ceskoslovenskï¿½ Strana Lidovï¿½;Ceskoslovenskï¿½ Strana Lidovï¿½;;Ceskoslovenskï¿½ strana lidovï¿½;;;;;;;;;x
+market_liberal_idolg_CZE;Ceskoslovenskï¿½ Nï¿½rodnï¿½ Demokracie;Ceskoslovenskï¿½ Nï¿½rodnï¿½ Demokracie;Ceskoslovenskï¿½ Nï¿½rodnï¿½ Demokracie;;Ceskoslovenskï¿½ nï¿½rodnï¿½ demokracie;;;;;;;;;x
+social_liberal_idolg_CZE;Ceskoslovenskï¿½ Strana Nï¿½rodne Socialistickï¿½;Ceskoslovenskï¿½ Strana Nï¿½rodne Socialistickï¿½;Ceskoslovenskï¿½ Strana Nï¿½rodne Socialistickï¿½;;Ceskoslovenskï¿½ strana nï¿½rodne socialistickï¿½;;;;;;;;;x
+social_democrat_idolg_CZE;Agrï¿½rnï¿½ Strana;Agrï¿½rnï¿½ Strana;Agrï¿½rnï¿½ Strana;;Agrï¿½rnï¿½ strana;;;;;;;;;x
+left_wing_radical_idolg_CZE;Ceskoslovenskï¿½ Sociï¿½lne Demokratickï¿½ Strana Delnickï¿½;Ceskoslovenskï¿½ Sociï¿½lne Demokratickï¿½ Strana Delnickï¿½;Ceskoslovenskï¿½ Sociï¿½lne Demokratickï¿½ Strana Delnickï¿½;;Ceskoslovenskï¿½ sociï¿½lne demokratickï¿½ strana delnickï¿½;;;;;;;;;x
+maoist_idolg_CZE;Ceskoslovenska Komunistickï¿½ Strana;Ceskoslovenska Komunistickï¿½ Strana;Ceskoslovenska Komunistickï¿½ Strana;;Ceskoslovenska Komunistickï¿½ strana;;;;;;;;;x
+communist_idolg_CZE;Komunistickï¿½ Strana Ceskoslovenska;Komunistickï¿½ Strana Ceskoslovenska;Komunistickï¿½ Strana Ceskoslovenska;;Komunistickï¿½ strana Ceskoslovenska;;;;;;;;;x
 fascistic_idolg_CZR;Workers' Party of Social Justice;;;;;;;;;;;;;x
 paternal_auto_idolg_CZR;Democratic Republican Party;;;;;;;;;;;;;x
 social_cons_idolg_CZR;Democratic Justice Party;;;;;;;;;;;;;x
 market_liberal_idolg_CZR;Civic Democratic Party;;;;;;;;;;;;;x
-social_liberal_idolg_CZR;Freedom Union–Democratic Union;;;;;;;;;;;;;x
+social_liberal_idolg_CZR;Freedom Unionï¿½Democratic Union;;;;;;;;;;;;;x
 social_democrat_idolg_CZR;Czech Social Democratic Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_CZR;Left Bloc;;;;;;;;;;;;;x
 maoist_idolg_CZR;Workers' Party;;;;;;;;;;;;;x
@@ -589,7 +589,7 @@ fascistic_idolg_DOM;Falange de Dominicano;Falange de Dominicano;Falange de Domin
 paternal_auto_idolg_DOM;Partido Dominicano;Partido Dominicano;Partido Dominicano;;Partido Dominicano;;;;;;;;;x
 social_cons_idolg_DOM;Partido Reformista Social Cristiano;Partido Reformista Social Cristiano;Partido Reformista Social Cristiano;;Partido Reformista Social Cristiano;;;;;;;;;x
 market_liberal_idolg_DOM;Fuerza Nacional Progresista;Fuerza Nacional Progresista;Fuerza Nacional Progresista;;Fuerza Nacional Progresista;;;;;;;;;x
-social_liberal_idolg_DOM;Partido de la Liberación Dominicana;Partido de la Liberación Dominicana;Partido de la Liberación Dominicana;;Partido de la Liberación Dominicana;;;;;;;;;x
+social_liberal_idolg_DOM;Partido de la Liberaciï¿½n Dominicana;Partido de la Liberaciï¿½n Dominicana;Partido de la Liberaciï¿½n Dominicana;;Partido de la Liberaciï¿½n Dominicana;;;;;;;;;x
 social_democrat_idolg_DOM;Partido Revolucionario Dominicano;Partido Revolucionario Dominicano;Partido Revolucionario Dominicano;;Partido Revolucionario Dominicano;;;;;;;;;x
 left_wing_radical_idolg_DOM;Partido de los Trabajadores Dominicanos;Partido de los Trabajadores Dominicanos;Partido de los Trabajadores Dominicanos;;Partido de los Trabajadores Dominicanos;;;;;;;;;x
 maoist_idolg_DOM;Movimiento Popular Dominicano;Movimiento Popular Dominicano;Movimiento Popular Dominicano;;Movimiento Popular Dominicano;;;;;;;;;x
@@ -622,31 +622,31 @@ left_wing_radical_idolg_EAF;People's Party;;;;;;;;;;;;;x
 maoist_idolg_EAF;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_EAF;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_ECU;Falange del Ecuador;Falange del Ecuador;Falange del Ecuador;;Falange del Ecuador;;;;;;;;;x
-paternal_auto_idolg_ECU;Acción Nacional;Acción Nacional;Acción Nacional;;Acción Nacional;;;;;;;;;x
+paternal_auto_idolg_ECU;Acciï¿½n Nacional;Acciï¿½n Nacional;Acciï¿½n Nacional;;Acciï¿½n Nacional;;;;;;;;;x
 social_cons_idolg_ECU;Frente Radical Alfarista;Frente Radical Alfarista;Frente Radical Alfarista;;Frente Radical Alfarista;;;;;;;;;x
 market_liberal_idolg_ECU;Partido Liberal Radical Ecuatoriano;Partido Liberal Radical Ecuatoriano;Partido Liberal Radical Ecuatoriano;;Partido Liberal Radical Ecuatoriano;;;;;;;;;x
-social_liberal_idolg_ECU;Concentración de Fuerzas Populares;Concentración de Fuerzas Populares;Concentración de Fuerzas Populares;;Concentración de Fuerzas Populares;;;;;;;;;x
+social_liberal_idolg_ECU;Concentraciï¿½n de Fuerzas Populares;Concentraciï¿½n de Fuerzas Populares;Concentraciï¿½n de Fuerzas Populares;;Concentraciï¿½n de Fuerzas Populares;;;;;;;;;x
 social_democrat_idolg_ECU;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;;x
 left_wing_radical_idolg_ECU;Partido de los Trabajadores del Ecuador;Partido de los Trabajadores del Ecuador;Partido de los Trabajadores del Ecuador;;Partido de los Trabajadores del Ecuador;;;;;;;;;x
 maoist_idolg_ECU;Partido Comunista Marxista-maoist_idolga del Ecuador;Partido Comunista Marxista-maoist_idolga del Ecuador;Partido Comunista Marxista-maoist_idolga del Ecuador;;Partido Comunista Marxista-maoist_idolga del Ecuador;;;;;;;;;x
 communist_idolg_ECU;Partido Comunista del Ecuador;Partido Comunista del Ecuador;Partido Comunista del Ecuador;;Partido Comunista del Ecuador;;;;;;;;;x
-fascistic_idolg_EGY;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista Árabe;;;;;;;;;x
+fascistic_idolg_EGY;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista ï¿½rabe;;;;;;;;;x
 paternal_auto_idolg_EGY;The Abaza Clan;Le clan Abaza;Der Abaza-Klan;;Clan de Abaza;;;;;;;;;x
-social_cons_idolg_EGY;Muslim Brotherhood;Les Frères musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
+social_cons_idolg_EGY;Muslim Brotherhood;Les Frï¿½res musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
 market_liberal_idolg_EGY;Wafd Party;Parti Wafd;Wafd-Partei;;Partido Wafd;;;;;;;;;x
 social_liberal_idolg_EGY;Ummah Party;Parti Ummah;Ummah-Partei;;Partido Ummah;;;;;;;;;x
-social_democrat_idolg_EGY;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
-left_wing_radical_idolg_EGY;National Progressive Unionist Party;Parti progressiste unioniste national;Einheitspartei des nationalen Fortschritts;;Partido de la Unión Progresista Nacional;;;;;;;;;x
-maoist_idolg_EGY;Egyptian Arab Socialist Party;Parti socialiste arabe égyptien;Arabische Sozialistenpartei Ägyptens;;Partido Socialista Árabe de Egipto;;;;;;;;;x
-communist_idolg_EGY;Communist Party of Egypt;Parti communiste égyptien;Kommunistische Partei Ägyptens;;Partido Comunista de Egipto;;;;;;;;;x
-fascistic_idolg_ENG;British Union of Fascists;Union britannique fasciste;British Union of Fascists;;Unión Británica de Fascistas;;;;;;;;;x
-paternal_auto_idolg_ENG;Union Moment;Ligue du Nord;Nordic League;;Liga Nórdica;;;;;;;;;x
+social_democrat_idolg_EGY;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
+left_wing_radical_idolg_EGY;National Progressive Unionist Party;Parti progressiste unioniste national;Einheitspartei des nationalen Fortschritts;;Partido de la Uniï¿½n Progresista Nacional;;;;;;;;;x
+maoist_idolg_EGY;Egyptian Arab Socialist Party;Parti socialiste arabe ï¿½gyptien;Arabische Sozialistenpartei ï¿½gyptens;;Partido Socialista ï¿½rabe de Egipto;;;;;;;;;x
+communist_idolg_EGY;Communist Party of Egypt;Parti communiste ï¿½gyptien;Kommunistische Partei ï¿½gyptens;;Partido Comunista de Egipto;;;;;;;;;x
+fascistic_idolg_ENG;British Union of Fascists;Union britannique fasciste;British Union of Fascists;;Uniï¿½n Britï¿½nica de Fascistas;;;;;;;;;x
+paternal_auto_idolg_ENG;Union Moment;Ligue du Nord;Nordic League;;Liga Nï¿½rdica;;;;;;;;;x
 social_cons_idolg_ENG;Conservative Party;Parti conservateur;Conservative Party;;Partido Conservador;;;;;;;;;x
-market_liberal_idolg_ENG;National Liberal Party;Parti libéral national;National Liberal Party;;Partido Nacional Liberal;;;;;;;;;x
-social_liberal_idolg_ENG;Liberal Party;Parti libéral ;Liberal Party;;Partido Liberal;;;;;;;;;x
+market_liberal_idolg_ENG;National Liberal Party;Parti libï¿½ral national;National Liberal Party;;Partido Nacional Liberal;;;;;;;;;x
+social_liberal_idolg_ENG;Liberal Party;Parti libï¿½ral ;Liberal Party;;Partido Liberal;;;;;;;;;x
 social_democrat_idolg_ENG;Labour Party;Parti travailliste;Labour Party;;Partido Laborista;;;;;;;;;x
-left_wing_radical_idolg_ENG;Independent Labour Party;Parti travailliste indépendant;Independent Labour Party;;Partido Laborista Independiente;;;;;;;;;x
-maoist_idolg_ENG;Revolutionary Socialist League;Ligue socialiste révolutionnaire;Revolutionary Socialist League;;Liga Revolucionaria Socialista;;;;;;;;;x
+left_wing_radical_idolg_ENG;Independent Labour Party;Parti travailliste indï¿½pendant;Independent Labour Party;;Partido Laborista Independiente;;;;;;;;;x
+maoist_idolg_ENG;Revolutionary Socialist League;Ligue socialiste rï¿½volutionnaire;Revolutionary Socialist League;;Liga Revolucionaria Socialista;;;;;;;;;x
 communist_idolg_ENG;Communist Party;Parti communiste;Kommunistische Partei;;Partido Comunista;;;;;;;;;x
 fascistic_idolg_EQA;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_EQA;Democratic Republican Party;;;;;;;;;;;;;x
@@ -657,11 +657,11 @@ social_democrat_idolg_EQA;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_EQA;People's Party;;;;;;;;;;;;;x
 maoist_idolg_EQA;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_EQA;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_EQG;Partido Democrático de Guinea Ecuatorial;;;;;;;;;;;;;x
+fascistic_idolg_EQG;Partido Democrï¿½tico de Guinea Ecuatorial;;;;;;;;;;;;;x
 paternal_auto_idolg_EQG;Democratic Republican Party;;;;;;;;;;;;;x
-social_cons_idolg_EQG;Alianza Democrática Progresista;;;;;;;;;;;;;x
+social_cons_idolg_EQG;Alianza Democrï¿½tica Progresista;;;;;;;;;;;;;x
 market_liberal_idolg_EQG;Partido del Progreso de Guinea Ecuatorial;;;;;;;;;;;;;x
-social_liberal_idolg_EQG;Unión Democrática Nacional de Guinea Ecuatorial;;;;;;;;;;;;;x
+social_liberal_idolg_EQG;Uniï¿½n Democrï¿½tica Nacional de Guinea Ecuatorial;;;;;;;;;;;;;x
 social_democrat_idolg_EQG;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_EQG;People's Party;;;;;;;;;;;;;x
 maoist_idolg_EQG;Workers' Party;;;;;;;;;;;;;x
@@ -680,19 +680,19 @@ paternal_auto_idolg_EST;Talurahvaerakond;Talurahvaerakond;Talurahvaerakond;;Talu
 social_cons_idolg_EST;EKR;EKR;EKR;;EKR;;;;;;;;;x
 market_liberal_idolg_EST;VKR;VKR;VKR;;VKR;;;;;;;;;x
 social_liberal_idolg_EST;ER;ER;ER;;ER;;;;;;;;;x
-social_democrat_idolg_EST;ESÜ;ESÜ;ESÜ;;ESÜ;;;;;;;;;x
+social_democrat_idolg_EST;ESï¿½;ESï¿½;ESï¿½;;ESï¿½;;;;;;;;;x
 left_wing_radical_idolg_EST;ESP;ESP;ESP;;ESP;;;;;;;;;x
-maoist_idolg_EST;ESTÜ;ESTÜ;ESTÜ;;ESTÜ;;;;;;;;;x
+maoist_idolg_EST;ESTï¿½;ESTï¿½;ESTï¿½;;ESTï¿½;;;;;;;;;x
 communist_idolg_EST;EKP;EKP;EKP;;EKP;;;;;;;;;x
-fascistic_idolg_ETH;Ethiopian Fascist Front;Front fasciste éthiopien;Faschistische Front Äthiopiens;;Frente Fascista de Etiopía;;;;;;;;;x
+fascistic_idolg_ETH;Ethiopian Fascist Front;Front fasciste ï¿½thiopien;Faschistische Front ï¿½thiopiens;;Frente Fascista de Etiopï¿½a;;;;;;;;;x
 paternal_auto_idolg_ETH;Mekwanint;Mekwanint;Mekwanint;;Mekwanint;;;;;;;;;x
 social_cons_idolg_ETH;Mesafint;Mesafint;Mesafint;;Mesafint;;;;;;;;;x
-market_liberal_idolg_ETH;All-Ethiopian Unity Party;Parti unitaire éthiopien;Gesamtäyptische Einheitspartei;;Partido de Unidad Panetíope;;;;;;;;;x
-social_liberal_idolg_ETH;Ethiopian Democratic Unity Party;Parti unitaire démocratique éthiopien;Demokratische Einheitspartei Äthiopiens;;Partido Etíope de Unidad Democrática;;;;;;;;;x
-social_democrat_idolg_ETH;Ethiopian Social Democratic Federal Party;Parti social démocrate fédéral éthiopien;Sozialdemokratische Bundespartei Äthiopiens;;Partido Socialdemócrata Federal de Etiopía;;;;;;;;;x
-left_wing_radical_idolg_ETH;Ethiopian People's Revolutionary Party;Parti populaire révolutionnaire éthiopien;Äthiopische Volksrevolutionspartei;;Partido Revolucionario del Pueblo?Etíope;;;;;;;;;x
-maoist_idolg_ETH;All-Ethiopia Socialist Movement;Mouvement socialiste éthiopien;Gesamtäyptische sozialistische Bewegung;;Movimiento Socialista Panetíope;;;;;;;;;x
-communist_idolg_ETH;Workers' Party of Ethiopia;Parti des travailleurs éthiopiens;Äthiopische Arbeiterpartei;;Partido Laborista de Etiopía;;;;;;;;;x
+market_liberal_idolg_ETH;All-Ethiopian Unity Party;Parti unitaire ï¿½thiopien;Gesamtï¿½yptische Einheitspartei;;Partido de Unidad Panetï¿½ope;;;;;;;;;x
+social_liberal_idolg_ETH;Ethiopian Democratic Unity Party;Parti unitaire dï¿½mocratique ï¿½thiopien;Demokratische Einheitspartei ï¿½thiopiens;;Partido Etï¿½ope de Unidad Democrï¿½tica;;;;;;;;;x
+social_democrat_idolg_ETH;Ethiopian Social Democratic Federal Party;Parti social dï¿½mocrate fï¿½dï¿½ral ï¿½thiopien;Sozialdemokratische Bundespartei ï¿½thiopiens;;Partido Socialdemï¿½crata Federal de Etiopï¿½a;;;;;;;;;x
+left_wing_radical_idolg_ETH;Ethiopian People's Revolutionary Party;Parti populaire rï¿½volutionnaire ï¿½thiopien;ï¿½thiopische Volksrevolutionspartei;;Partido Revolucionario del Pueblo?Etï¿½ope;;;;;;;;;x
+maoist_idolg_ETH;All-Ethiopia Socialist Movement;Mouvement socialiste ï¿½thiopien;Gesamtï¿½yptische sozialistische Bewegung;;Movimiento Socialista Panetï¿½ope;;;;;;;;;x
+communist_idolg_ETH;Workers' Party of Ethiopia;Parti des travailleurs ï¿½thiopiens;ï¿½thiopische Arbeiterpartei;;Partido Laborista de Etiopï¿½a;;;;;;;;;x
 fascistic_idolg_EUS;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_EUS;Democratic Republican Party;;;;;;;;;;;;;x
 social_cons_idolg_EUS;Democratic Justice Party;;;;;;;;;;;;;x
@@ -740,7 +740,7 @@ maoist_idolg_FKL;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_FKL;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_FLA;Vlaams Blok;;;;;;;;;;;;;x
 paternal_auto_idolg_FLA;Volksunie;;;;;;;;;;;;;x
-social_cons_idolg_FLA;Parti Social Chrétien;;;;;;;;;;;;;x
+social_cons_idolg_FLA;Parti Social Chrï¿½tien;;;;;;;;;;;;;x
 market_liberal_idolg_FLA;Open Vlaamse Liberalen en Democraten;;;;;;;;;;;;;x
 social_liberal_idolg_FLA;Vlaamse Liberalen en Democraten;;;;;;;;;;;;;x
 social_democrat_idolg_FLA;Socialistische Partij Anders;;;;;;;;;;;;;x
@@ -757,7 +757,7 @@ left_wing_radical_idolg_FPO;People's Party;;;;;;;;;;;;;x
 maoist_idolg_FPO;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_FPO;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_FRA;Mouvement Franciste;Mouvement franciste;Mouvement Franciste;;Mouvement Franciste;;;;;;;;;x
-paternal_auto_idolg_FRA;Action Française;Action française;Action Française;;Action Française;;;;;;;;;x
+paternal_auto_idolg_FRA;Action Franï¿½aise;Action franï¿½aise;Action Franï¿½aise;;Action Franï¿½aise;;;;;;;;;x
 social_cons_idolg_FRA;FR;FR;FR;;Fra;;;;;;;;;x
 market_liberal_idolg_FRA;MRP;MRP;MRP;;MRP;;;;;;;;;x
 social_liberal_idolg_FRA;ARV;ARV;ARV;;ARV;;;;;;;;;x
@@ -772,7 +772,7 @@ market_liberal_idolg_FRG;Christian Democratic Union of Germany;;;;;;;;;;;;;x
 social_liberal_idolg_FRG;Free Democratic Party;;;;;;;;;;;;;x
 social_democrat_idolg_FRG;Social Democratic Party of Germany;;;;;;;;;;;;;x
 left_wing_radical_idolg_FRG;International Marxist Group;;;;;;;;;;;;;x
-maoist_idolg_FRG;Marxist–Leninist Party of Germany;;;;;;;;;;;;;x
+maoist_idolg_FRG;Marxistï¿½Leninist Party of Germany;;;;;;;;;;;;;x
 communist_idolg_FRG;German Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_FSU;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_FSU;Democratic Republican Party;;;;;;;;;;;;;x
@@ -868,10 +868,10 @@ fascistic_idolg_GUA;Falange de Guatemala;Falange de Guatemala;Falange de Guatema
 paternal_auto_idolg_GUA;Frente Republicano Guatemalteco;Frente Republicano Guatemalteco;Frente Republicano Guatemalteco;;Frente Republicano Guatemalteco;;;;;;;;;x
 social_cons_idolg_GUA;Unidad Nacional de la Esperanza;Unidad Nacional de la Esperanza;Unidad Nacional de la Esperanza;;Unidad Nacional de la Esperanza;;;;;;;;;x
 market_liberal_idolg_GUA;Partido Unionista;Partido Unionista;Partido Unionista;;Partido Unionista;;;;;;;;;x
-social_liberal_idolg_GUA;Unión Democrática;Unión Democrática;Unión Democrática;;Unión Democrática;;;;;;;;;x
+social_liberal_idolg_GUA;Uniï¿½n Democrï¿½tica;Uniï¿½n Democrï¿½tica;Uniï¿½n Democrï¿½tica;;Uniï¿½n Democrï¿½tica;;;;;;;;;x
 social_democrat_idolg_GUA;Partido Guatemalteco del Trabajo;Partido Guatemalteco del Trabajo;Partido Guatemalteco del Trabajo;;Partido Guatemalteco del Trabajo;;;;;;;;;x
-left_wing_radical_idolg_GUA;Partido Accion Revolucion;Partido Accion Revolucion;Partido Accion Revolucion;;Partido Acción Revolución;;;;;;;;;x
-maoist_idolg_GUA;Vanguardia Democrática Guatemalteca;Vanguardia Democrática Guatemalteca;Vanguardia Democrática Guatemalteca;;Vanguardia Democrática Guatemalteca;;;;;;;;;x
+left_wing_radical_idolg_GUA;Partido Accion Revolucion;Partido Accion Revolucion;Partido Accion Revolucion;;Partido Acciï¿½n Revoluciï¿½n;;;;;;;;;x
+maoist_idolg_GUA;Vanguardia Democrï¿½tica Guatemalteca;Vanguardia Democrï¿½tica Guatemalteca;Vanguardia Democrï¿½tica Guatemalteca;;Vanguardia Democrï¿½tica Guatemalteca;;;;;;;;;x
 communist_idolg_GUA;Partido Comunista de Guatemala;Partido Comunista de Guatemala;Partido Comunista de Guatemala;;Partido Comunista de Guatemala;;;;;;;;;x
 fascistic_idolg_GUB;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_GUB;Democratic Republican Party;;;;;;;;;;;;;x
@@ -902,11 +902,11 @@ maoist_idolg_GUM;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_GUM;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_GUY;Guyana Fascist League;Ligue fasciste guyanaise;Faschistische Liga Guyanas;;Liga Fascista de Guayana;;;;;;;;;x
 paternal_auto_idolg_GUY;Guyana National Party;Parti national guyanais;Nationalpartei Guyanas;;Partido Nacional de Guayana;;;;;;;;;x
-social_cons_idolg_GUY;National Republican Party;Parti national républicain;Nationalrepublikanische Partei;;Partido Republicano Nacional;;;;;;;;;x
-market_liberal_idolg_GUY;National Democratic Movement;Mouvement démocratique national;Nationaldemokratische Bewegung;;Movimiento Nacional Demócrata;;;;;;;;;x
-social_liberal_idolg_GUY;Peoples Democratic Party;Parti populaire démocrate;Demokratische Volkspartei;;Partido Democrático del Pueblo;;;;;;;;;x
-social_democrat_idolg_GUY;People's National Congress;Congrès national populaire;Nationaler Volkskongress;;Congreso Nacional del Pueblo;;;;;;;;;x
-left_wing_radical_idolg_GUY;People's Progressive Party;Parti populaire progressiste;Völkische Fortschrittspartei;;Partido Progresista del Pueblo;;;;;;;;;x
+social_cons_idolg_GUY;National Republican Party;Parti national rï¿½publicain;Nationalrepublikanische Partei;;Partido Republicano Nacional;;;;;;;;;x
+market_liberal_idolg_GUY;National Democratic Movement;Mouvement dï¿½mocratique national;Nationaldemokratische Bewegung;;Movimiento Nacional Demï¿½crata;;;;;;;;;x
+social_liberal_idolg_GUY;Peoples Democratic Party;Parti populaire dï¿½mocrate;Demokratische Volkspartei;;Partido Democrï¿½tico del Pueblo;;;;;;;;;x
+social_democrat_idolg_GUY;People's National Congress;Congrï¿½s national populaire;Nationaler Volkskongress;;Congreso Nacional del Pueblo;;;;;;;;;x
+left_wing_radical_idolg_GUY;People's Progressive Party;Parti populaire progressiste;Vï¿½lkische Fortschrittspartei;;Partido Progresista del Pueblo;;;;;;;;;x
 maoist_idolg_GUY;Working People's Vanguard Party;Parti de l'avant-garde des travailleurs;Partei des arbeitenden Volkes;;Partido Vanguardista de los Trabajadores;;;;;;;;;x
 communist_idolg_GUY;Communist Party of Guyana;Parti communiste guyanais;Kommunistische Partei Guyanas;;Partido Comunista de Guayana;;;;;;;;;x
 fascistic_idolg_GZS;Fascist Front;;;;;;;;;;;;;x
@@ -947,11 +947,11 @@ maoist_idolg_HOL;RSAP;RSAP;RSAP;;RSAP;;;;;;;;;x
 communist_idolg_HOL;CPN;CPN;CPN;;CPN;;;;;;;;;x
 fascistic_idolg_HON;Falange de Honduras;Falange de Honduras;Falange de Honduras;;Falange de Honduras;;;;;;;;;x
 paternal_auto_idolg_HON;Partido Nacional;Partido Nacional;Partido Nacional;;Partido Nacional;;;;;;;;;x
-social_cons_idolg_HON;Partido Demócrata Cristiano de Honduras;Partido Demócrata Cristiano de Honduras;Partido Demócrata Cristiano de Honduras;;Partido Demócrata Cristiano de Honduras;;;;;;;;;x
+social_cons_idolg_HON;Partido Demï¿½crata Cristiano de Honduras;Partido Demï¿½crata Cristiano de Honduras;Partido Demï¿½crata Cristiano de Honduras;;Partido Demï¿½crata Cristiano de Honduras;;;;;;;;;x
 market_liberal_idolg_HON;Partido Liberal de Honduras;Partido Liberal de Honduras;Partido Liberal de Honduras;;Partido Liberal de Honduras;;;;;;;;;x
-social_liberal_idolg_HON;Partido Unificación Democrática;Partido Unificación Democrática;Partido Unificación Democrática;;Partido Unificación Democrática;;;;;;;;;x
-social_democrat_idolg_HON;Partido Innovación y Unidad;Partido Innovación y Unidad;Partido Innovación y Unidad;;Partido Innovación y Unidad;;;;;;;;;x
-left_wing_radical_idolg_HON;Partido Revolucionario Hondureño;Partido Revolucionario Hondureño;Partido Revolucionario Hondureño;;Partido Revolucionario Hondureño;;;;;;;;;x
+social_liberal_idolg_HON;Partido Unificaciï¿½n Democrï¿½tica;Partido Unificaciï¿½n Democrï¿½tica;Partido Unificaciï¿½n Democrï¿½tica;;Partido Unificaciï¿½n Democrï¿½tica;;;;;;;;;x
+social_democrat_idolg_HON;Partido Innovaciï¿½n y Unidad;Partido Innovaciï¿½n y Unidad;Partido Innovaciï¿½n y Unidad;;Partido Innovaciï¿½n y Unidad;;;;;;;;;x
+left_wing_radical_idolg_HON;Partido Revolucionario Hondureï¿½o;Partido Revolucionario Hondureï¿½o;Partido Revolucionario Hondureï¿½o;;Partido Revolucionario Hondureï¿½o;;;;;;;;;x
 maoist_idolg_HON;Fuerzas Populares Revolucionarias;Fuerzas Populares Revolucionarias;Fuerzas Populares Revolucionarias;;Fuerzas Populares Revolucionarias;;;;;;;;;x
 communist_idolg_HON;Partido Comunista de Honduras;Partido Comunista de Honduras;Partido Comunista de Honduras;;Partido Comunista de Honduras;;;;;;;;;x
 fascistic_idolg_HUN;Hungarist Party;;;;;;;;;;;;;x
@@ -963,30 +963,30 @@ social_democrat_idolg_HUN;SZDP;SZDP;SZDP;;SZDP;;;;;;;;;x
 left_wing_radical_idolg_HUN;MSzMP;MSzMP;MSzMP;;MSzMP;;;;;;;;;x
 maoist_idolg_HUN;MDP;MDP;MDP;;MDP;;;;;;;;;x
 communist_idolg_HUN;KMP;KMP;KMP;;KMP;;;;;;;;;x
-fascistic_idolg_ICL;Flokkur Thjóedernissinna;Flokkur Thjóedernissinna;Flokkur Thjóedernissinna;;Flokkur Thjóedernissinna;;;;;;;;;x
-paternal_auto_idolg_ICL;Thjódevarnarflokkurinn;Thjódevarnarflokkurinn;Thjódevarnarflokkurinn;;Thjódevarnarflokkurinn;;;;;;;;;x
-social_cons_idolg_ICL;Sjálfstaedeisflokkurinn;Sjálfstaedeisflokkurinn;Sjálfstaedeisflokkurinn;;Sjálfstaedeisflokkurinn;;;;;;;;;x
-market_liberal_idolg_ICL;Frjálslyndi Flokkurinn;Frjálslyndi Flokkurinn;Frjálslyndi Flokkurinn;;Frjálslyndi flokkurinn;;;;;;;;;x
-social_liberal_idolg_ICL;Framsóknarflokkurinn;Framsóknarflokkurinn;Framsóknarflokkurinn;;Framsóknarflokkurinn;;;;;;;;;x
-social_democrat_idolg_ICL;Althıeduflokkur;Althıeduflokkur;Althıeduflokkur;;Althıeduflokkur;;;;;;;;;x
-left_wing_radical_idolg_ICL;Sósíalistaflokkurinn;Sósíalistaflokkurinn;Sósíalistaflokkurinn;;Sósíalistaflokkurinn;;;;;;;;;x
-maoist_idolg_ICL;Jafnaedarmannafélagied Sparta;Jafnaedarmannafélagied Sparta;Jafnaedarmannafélagied Sparta;;Jafnaedarmannafélagied Sparta;;;;;;;;;x
-communist_idolg_ICL;Kommúnistaflokkur Íslands;Kommúnistaflokkur Íslands;Kommúnistaflokkur Íslands;;Kommúnistaflokkur Íslands;;;;;;;;;x
+fascistic_idolg_ICL;Flokkur Thjï¿½edernissinna;Flokkur Thjï¿½edernissinna;Flokkur Thjï¿½edernissinna;;Flokkur Thjï¿½edernissinna;;;;;;;;;x
+paternal_auto_idolg_ICL;Thjï¿½devarnarflokkurinn;Thjï¿½devarnarflokkurinn;Thjï¿½devarnarflokkurinn;;Thjï¿½devarnarflokkurinn;;;;;;;;;x
+social_cons_idolg_ICL;Sjï¿½lfstaedeisflokkurinn;Sjï¿½lfstaedeisflokkurinn;Sjï¿½lfstaedeisflokkurinn;;Sjï¿½lfstaedeisflokkurinn;;;;;;;;;x
+market_liberal_idolg_ICL;Frjï¿½lslyndi Flokkurinn;Frjï¿½lslyndi Flokkurinn;Frjï¿½lslyndi Flokkurinn;;Frjï¿½lslyndi flokkurinn;;;;;;;;;x
+social_liberal_idolg_ICL;Framsï¿½knarflokkurinn;Framsï¿½knarflokkurinn;Framsï¿½knarflokkurinn;;Framsï¿½knarflokkurinn;;;;;;;;;x
+social_democrat_idolg_ICL;Althï¿½eduflokkur;Althï¿½eduflokkur;Althï¿½eduflokkur;;Althï¿½eduflokkur;;;;;;;;;x
+left_wing_radical_idolg_ICL;Sï¿½sï¿½alistaflokkurinn;Sï¿½sï¿½alistaflokkurinn;Sï¿½sï¿½alistaflokkurinn;;Sï¿½sï¿½alistaflokkurinn;;;;;;;;;x
+maoist_idolg_ICL;Jafnaedarmannafï¿½lagied Sparta;Jafnaedarmannafï¿½lagied Sparta;Jafnaedarmannafï¿½lagied Sparta;;Jafnaedarmannafï¿½lagied Sparta;;;;;;;;;x
+communist_idolg_ICL;Kommï¿½nistaflokkur ï¿½slands;Kommï¿½nistaflokkur ï¿½slands;Kommï¿½nistaflokkur ï¿½slands;;Kommï¿½nistaflokkur ï¿½slands;;;;;;;;;x
 fascistic_idolg_IDC;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
 paternal_auto_idolg_IDC;Nationalist Party;Parti nationaliste;Nationalistische Partei;;Partido Nacionalista;;;;;;;;;x
 social_cons_idolg_IDC;Conservative Party;Parti conservateur;Konservative Partei;;Partido Conservador;;;;;;;;;x
-market_liberal_idolg_IDC;Democratic Party of Indochina;Parti démocratique indochinois;Demokratische Partei Indochinas;;Partido Democrático de Indochina;;;;;;;;;x
+market_liberal_idolg_IDC;Democratic Party of Indochina;Parti dï¿½mocratique indochinois;Demokratische Partei Indochinas;;Partido Democrï¿½tico de Indochina;;;;;;;;;x
 social_liberal_idolg_IDC;Indochinese Populist Party;Parti populiste indochinois;Indochinesische Populistenpartei;;Partido Populista de Indochina;;;;;;;;;x
-social_democrat_idolg_IDC;Social Democrat Party;Parti social démocrate;Sozialdemokratische Partei;;Partido Socialdemócrata;;;;;;;;;x
+social_democrat_idolg_IDC;Social Democrat Party;Parti social dï¿½mocrate;Sozialdemokratische Partei;;Partido Socialdemï¿½crata;;;;;;;;;x
 left_wing_radical_idolg_IDC;Indochinese Communist Party;Parti communiste indochinois;Kommunistische Partei Indochinas;;Partido Comunista Indochino;;;;;;;;;x
 maoist_idolg_IDC;Communist Party of Indochina;Parti communiste d'Indochine;Kommunistische Partei Indochinas;;Partido Comunista de Indochina;;;;;;;;;x
 communist_idolg_IDC;Khmer Rouge;Khmer Rouge;Khmer Rouge;;Khmer Rojo;;;;;;;;;x
-fascistic_idolg_IND;Indian Independence League;Ligue indienne pour l'indépendance;Indische Unabhängigkeitsliga;;Liga Independentista de la India;;;;;;;;;x
+fascistic_idolg_IND;Indian Independence League;Ligue indienne pour l'indï¿½pendance;Indische Unabhï¿½ngigkeitsliga;;Liga Independentista de la India;;;;;;;;;x
 paternal_auto_idolg_IND;Khilafat Movement;Mouvement Khifalat;Khilafat-Bewegung;;Movimiento Khilafat;;;;;;;;;x
 social_cons_idolg_IND;Muslim League;Ligue musulmane;Muslimische Liga;;Liga Musulmana;;;;;;;;;x
 market_liberal_idolg_IND;Bharatiya Janata Party;Parti Bharatiya Jana;Bharatiya Janata-Partei;;Partido Bharatiya Janata;;;;;;;;;x
 social_liberal_idolg_IND;Bahujan Samaj Party;Parti Bahujan Samaj;Bahujan Samaj-Partei;;Partido Bahujan Samaj;;;;;;;;;x
-social_democrat_idolg_IND;Congress Party;Parti du Congrès;Kongresspartei;;Partido del Congreso;;;;;;;;;x
+social_democrat_idolg_IND;Congress Party;Parti du Congrï¿½s;Kongresspartei;;Partido del Congreso;;;;;;;;;x
 left_wing_radical_idolg_IND;Ghadar Party;Parti Ghadar;Ghadar-Partei;;Partido Ghadar;;;;;;;;;x
 maoist_idolg_IND;Workers and Peasants Party;Parti des travailleurs et des paysans;Arbeiter- und Bauernpartei;;Partido de los Trabajadores y los Campesinos;;;;;;;;;x
 communist_idolg_IND;Communist Party of India;Parti communiste indien;Kommunistische Partei Indiens;;Partido Comunista de la India;;;;;;;;;x
@@ -1000,22 +1000,22 @@ left_wing_radical_idolg_INO;ISDV;ISDV;ISDV;;ISDV;;;;;;;;;x
 maoist_idolg_INO;Gerindo;Gerindo;Gerindo;;Gerindo;;;;;;;;;x
 communist_idolg_INO;Partai Komunis Indonesia;Partai Komunis Indonesia;Partai Komunis Indonesia;;Partai Komunis Indonesia;;;;;;;;;x
 fascistic_idolg_IRE;NCP;NCP;NCP;;NCP;;;;;;;;;x
-paternal_auto_idolg_IRE;United Gaelic Front;Front gaélique uni;United Gaelic Front;;Frente Gaélico Unido;;;;;;;;;x
+paternal_auto_idolg_IRE;United Gaelic Front;Front gaï¿½lique uni;United Gaelic Front;;Frente Gaï¿½lico Unido;;;;;;;;;x
 social_cons_idolg_IRE;Fine Gael;Fine Gael;Fine Gael;;Fine Gael;;;;;;;;;x
-market_liberal_idolg_IRE;Fianna Fáil;Fianna Fáil;Fianna Fáil;;Fianna Fáil;;;;;;;;;x
-social_liberal_idolg_IRE;Liberal Party;Parti libéral ;Liberal Party;;Partido Liberal;;;;;;;;;x
-social_democrat_idolg_IRE;Páirtí an Lucht Oibre;Páirtí an Lucht Oibre;Páirtí an Lucht Oibre;;Páirtí an Lucht Oibre;;;;;;;;;x
-left_wing_radical_idolg_IRE;Sinn Féin;Sinn Féin;Sinn Féin;;Sinn Féin;;;;;;;;;x
+market_liberal_idolg_IRE;Fianna Fï¿½il;Fianna Fï¿½il;Fianna Fï¿½il;;Fianna Fï¿½il;;;;;;;;;x
+social_liberal_idolg_IRE;Liberal Party;Parti libï¿½ral ;Liberal Party;;Partido Liberal;;;;;;;;;x
+social_democrat_idolg_IRE;Pï¿½irtï¿½ an Lucht Oibre;Pï¿½irtï¿½ an Lucht Oibre;Pï¿½irtï¿½ an Lucht Oibre;;Pï¿½irtï¿½ an Lucht Oibre;;;;;;;;;x
+left_wing_radical_idolg_IRE;Sinn Fï¿½in;Sinn Fï¿½in;Sinn Fï¿½in;;Sinn Fï¿½in;;;;;;;;;x
 maoist_idolg_IRE;Socialist Party;Parti socialiste;Socialist Party;;Partido Socialista;;;;;;;;;x
 communist_idolg_IRE;CPI;CPI;CPI;;CPI;;;;;;;;;x
-fascistic_idolg_IRQ;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista Árabe;;;;;;;;;x
+fascistic_idolg_IRQ;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista ï¿½rabe;;;;;;;;;x
 paternal_auto_idolg_IRQ;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
-social_cons_idolg_IRQ;The Hashemites;Les Hachémites;Die Hashemiten;;Los Hashemitas;;;;;;;;;x
-market_liberal_idolg_IRQ;Reform Party;Parti réformateur;Reform-Partei;;Partido Reformista;;;;;;;;;x
-social_liberal_idolg_IRQ;Arabic Democratic Unionist Party;Parti unioniste démocratique arabe;Demokratische Einheitspartei Arabiens;;Partido Árabe Unionista Democrático;;;;;;;;;x
-social_democrat_idolg_IRQ;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
-left_wing_radical_idolg_IRQ;Worker-Communist Party of Iraq;Parti communiste des travailleurs iraquiens;Kommunistische Arbeiterpartei Irak;;Partido Iraquí de los Trabajadores Comunistas;;;;;;;;;x
-maoist_idolg_IRQ;Revolutionary Maoist Party;Parti révolutionnaire Maoïste;Revolutionäre Maoistische Partei;;Partido Maoísta Revolucionario;;;;;;;;;x
+social_cons_idolg_IRQ;The Hashemites;Les Hachï¿½mites;Die Hashemiten;;Los Hashemitas;;;;;;;;;x
+market_liberal_idolg_IRQ;Reform Party;Parti rï¿½formateur;Reform-Partei;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_IRQ;Arabic Democratic Unionist Party;Parti unioniste dï¿½mocratique arabe;Demokratische Einheitspartei Arabiens;;Partido ï¿½rabe Unionista Democrï¿½tico;;;;;;;;;x
+social_democrat_idolg_IRQ;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
+left_wing_radical_idolg_IRQ;Worker-Communist Party of Iraq;Parti communiste des travailleurs iraquiens;Kommunistische Arbeiterpartei Irak;;Partido Iraquï¿½ de los Trabajadores Comunistas;;;;;;;;;x
+maoist_idolg_IRQ;Revolutionary Maoist Party;Parti rï¿½volutionnaire Maoï¿½ste;Revolutionï¿½re Maoistische Partei;;Partido Maoï¿½sta Revolucionario;;;;;;;;;x
 communist_idolg_IRQ;Iraqi Communist Party;Parti communiste iraquien;Kommunistische Partei Irak;;Partido Comunista de Irak;;;;;;;;;x
 fascistic_idolg_ISR;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
 paternal_auto_idolg_ISR;Herut;Herut;Herut;;Herut;;;;;;;;;x
@@ -1036,7 +1036,7 @@ left_wing_radical_idolg_ITA;FN;FN;FN;;FN;;;;;;;;;x
 maoist_idolg_ITA;PTI;PTI;PTI;;PTI;;;;;;;;;x
 communist_idolg_ITA;PCI;PCI;PCI;;PCI;;;;;;;;;x
 fascistic_idolg_JAP;Kokumin Domei;Kokumin Domei;Kokumin Domei;;Kokumin Domei;;;;;;;;;x
-paternal_auto_idolg_JAP;Control Clique;Clique de contrôle;Kontrollclique;;Control Clique;;;;;;;;;x
+paternal_auto_idolg_JAP;Control Clique;Clique de contrï¿½le;Kontrollclique;;Control Clique;;;;;;;;;x
 social_cons_idolg_JAP;Seiyukai Party;Seiyukai Party;Seiyukai-Partei;;Partido Seiyukai;;;;;;;;;x
 market_liberal_idolg_JAP;Minsei Party;Minsei Party;Minsei-Partei;;Partido Minsei;;;;;;;;;x
 social_liberal_idolg_JAP;Rikken Seiyukai;Rikken Seiyukai;Rikken Seiyukai;;Rikken Seiyukai;;;;;;;;;x
@@ -1053,12 +1053,12 @@ social_democrat_idolg_JMC;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_JMC;People's Party;;;;;;;;;;;;;x
 maoist_idolg_JMC;Workers Party of Jamaica;;;;;;;;;;;;;x
 communist_idolg_JMC;National Labor Party;;;;;;;;;;;;;x
-fascistic_idolg_JOR;Arab Fascist Front;Front fasciste arabe;Faschistische Front;;Frente Fascista Árabe;;;;;;;;;x
-paternal_auto_idolg_JOR;The Hashemites;Les Hachémites;Die Hashemiten;;Los Hashemitas;;;;;;;;;x
+fascistic_idolg_JOR;Arab Fascist Front;Front fasciste arabe;Faschistische Front;;Frente Fascista ï¿½rabe;;;;;;;;;x
+paternal_auto_idolg_JOR;The Hashemites;Les Hachï¿½mites;Die Hashemiten;;Los Hashemitas;;;;;;;;;x
 social_cons_idolg_JOR;Muslim Brotherhood;Parti islamique Dawa;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
-market_liberal_idolg_JOR;Reform Party;Parti réformateur;Reform-Partei;;Partido Reformista;;;;;;;;;x
-social_liberal_idolg_JOR;Arabic Democratic Unionist Party;Parti unioniste démocratique arabe;Demokratische Einheitspartei Arabiens;;Parido Árabe Unionista Democrático;;;;;;;;;x
-social_democrat_idolg_JOR;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
+market_liberal_idolg_JOR;Reform Party;Parti rï¿½formateur;Reform-Partei;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_JOR;Arabic Democratic Unionist Party;Parti unioniste dï¿½mocratique arabe;Demokratische Einheitspartei Arabiens;;Parido ï¿½rabe Unionista Democrï¿½tico;;;;;;;;;x
+social_democrat_idolg_JOR;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
 left_wing_radical_idolg_JOR;Worker-Communist Party;Parti communiste des travailleurs jordaniens;Kommunistische Arbeiterpartei;;Partido Comunista de los Trabajadores;;;;;;;;;x
 maoist_idolg_JOR;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
 communist_idolg_JOR;Jordan Communist Party;Parti communiste jordanien;Kommunistische Partei Jordaniens;;Partido Comunista de Jordania;;;;;;;;;x
@@ -1117,14 +1117,14 @@ left_wing_radical_idolg_KON;People's Party;;;;;;;;;;;;;x
 maoist_idolg_KON;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_KON;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_KOR;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
-paternal_auto_idolg_KOR;Democratic Republican Party;Parti républicain démocratique;Demokratische Republikanerpartei;;Partido Democrático Republicano;;;;;;;;;x
-social_cons_idolg_KOR;Democratic Justice Party;Parti démocratique de la justice;Demokratische Gerechtigkeitspartei;;Partido de la Justicia Democrática;;;;;;;;;x
-market_liberal_idolg_KOR;Liberal Party;Parti libéral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
-social_liberal_idolg_KOR;Democratic Party;Parti démocratique;Demokratische Partei;;Partido Demócrata;;;;;;;;;x
-social_democrat_idolg_KOR;Democratic Labor Party;Parti travailliste démocratique;Demokratische Arbeiterpartei;;Partido Demócrata Laborista;;;;;;;;;x
-left_wing_radical_idolg_KOR;People's Party of Korea;Parti du peuple coréen;Koreanische Volkspartei;;Partido del Pueblo de Corea;;;;;;;;;x
-maoist_idolg_KOR;Communist Party of Korea;Parti communiste coréen;Kommunistische Partei Koreas;;Partido Comunista de Corea;;;;;;;;;x
-communist_idolg_KOR;Workers' Party of Korea;Parti des travailleurs coréens;Koreanische Arbeiterpartei;;Partido de los Trabajadores de Corea;;;;;;;;;x
+paternal_auto_idolg_KOR;Democratic Republican Party;Parti rï¿½publicain dï¿½mocratique;Demokratische Republikanerpartei;;Partido Democrï¿½tico Republicano;;;;;;;;;x
+social_cons_idolg_KOR;Democratic Justice Party;Parti dï¿½mocratique de la justice;Demokratische Gerechtigkeitspartei;;Partido de la Justicia Democrï¿½tica;;;;;;;;;x
+market_liberal_idolg_KOR;Liberal Party;Parti libï¿½ral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
+social_liberal_idolg_KOR;Democratic Party;Parti dï¿½mocratique;Demokratische Partei;;Partido Demï¿½crata;;;;;;;;;x
+social_democrat_idolg_KOR;Democratic Labor Party;Parti travailliste dï¿½mocratique;Demokratische Arbeiterpartei;;Partido Demï¿½crata Laborista;;;;;;;;;x
+left_wing_radical_idolg_KOR;People's Party of Korea;Parti du peuple corï¿½en;Koreanische Volkspartei;;Partido del Pueblo de Corea;;;;;;;;;x
+maoist_idolg_KOR;Communist Party of Korea;Parti communiste corï¿½en;Kommunistische Partei Koreas;;Partido Comunista de Corea;;;;;;;;;x
+communist_idolg_KOR;Workers' Party of Korea;Parti des travailleurs corï¿½ens;Koreanische Arbeiterpartei;;Partido de los Trabajadores de Corea;;;;;;;;;x
 fascistic_idolg_KOS;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_KOS;Democratic Republican Party;;;;;;;;;;;;;x
 social_cons_idolg_KOS;Democratic Justice Party;;;;;;;;;;;;;x
@@ -1179,7 +1179,7 @@ social_democrat_idolg_LAO;Independent Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_LAO;People's Party;;;;;;;;;;;;;x
 maoist_idolg_LAO;Lao Socialist Party;;;;;;;;;;;;;x
 communist_idolg_LAO;Lao People's Revolutionary Party;;;;;;;;;;;;;x
-fascistic_idolg_LAT;The Legion;La Légion;Die Legion;;La Legión;;;;;;;;;x
+fascistic_idolg_LAT;The Legion;La Lï¿½gion;Die Legion;;La Legiï¿½n;;;;;;;;;x
 paternal_auto_idolg_LAT;LZs;LZs;LZs;;LZs;;;;;;;;;x
 social_cons_idolg_LAT;Tautas Partija;Tautas Partija;Tautas Partija;;Tautas Partija;;;;;;;;;x
 market_liberal_idolg_LAT;LNP;LNP;LNP;;LNP;;;;;;;;;x
@@ -1197,24 +1197,24 @@ social_democrat_idolg_LBY;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_LBY;People's Party;;;;;;;;;;;;;x
 maoist_idolg_LBY;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_LBY;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_LEB;Guardians of the Cedars;Gardiens des cèdres;Wächter der Zedern;;Guardianes de los Cedros;;;;;;;;;x
+fascistic_idolg_LEB;Guardians of the Cedars;Gardiens des cï¿½dres;Wï¿½chter der Zedern;;Guardianes de los Cedros;;;;;;;;;x
 paternal_auto_idolg_LEB;Kataeb Party;Parti Kataeb;Kataeb-Partei;;Partido Kataeb;;;;;;;;;x
-social_cons_idolg_LEB;Aramean Democratic Organisation;Organisation démocratique araméenne;Aramäische Demokratische Organisation;;Organización Democrática Aramea;;;;;;;;;x
-market_liberal_idolg_LEB;Lebanese Republican Party;Parti républicain libanais;Republikanische Partei Libanon;;Partido Republicano Libanés;;;;;;;;;x
-social_liberal_idolg_LEB;Lebanese Democratic Party;Parti démocratique libanais;Demokratische Partei Libanon;;Partido Demócrata Libanés;;;;;;;;;x
-social_democrat_idolg_LEB;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
+social_cons_idolg_LEB;Aramean Democratic Organisation;Organisation dï¿½mocratique aramï¿½enne;Aramï¿½ische Demokratische Organisation;;Organizaciï¿½n Democrï¿½tica Aramea;;;;;;;;;x
+market_liberal_idolg_LEB;Lebanese Republican Party;Parti rï¿½publicain libanais;Republikanische Partei Libanon;;Partido Republicano Libanï¿½s;;;;;;;;;x
+social_liberal_idolg_LEB;Lebanese Democratic Party;Parti dï¿½mocratique libanais;Demokratische Partei Libanon;;Partido Demï¿½crata Libanï¿½s;;;;;;;;;x
+social_democrat_idolg_LEB;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
 left_wing_radical_idolg_LEB;Workers League;Ligue des travailleurs;Arbeiterliga;;Liga de los Trabajadores;;;;;;;;;x
 maoist_idolg_LEB;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
-communist_idolg_LEB;Lebanese Communist Party;Parti communiste libanais;Kommunistische Partei Libanon;;Partido Comunista Libanés;;;;;;;;;x
-fascistic_idolg_LIB;Liberian Fascist Front;Front fasciste libérien;Faschistische Front Liberias;;Frente Fascista Liberiano;;;;;;;;;x
-paternal_auto_idolg_LIB;Liberian Whig Party;Parti libéral libérien;True Whig Party;;Partido Whig Liberiano;;;;;;;;;x
-social_cons_idolg_LIB;Liberian Conservative Party;Parti conservateur libérien;Konservative Partei Liberias;;Partido Conservador Liberiano;;;;;;;;;x
-market_liberal_idolg_LIB;Liberty Party;Parti de la liberté;Freiheitspartei;;Partido de la Libertad;;;;;;;;;x
-social_liberal_idolg_LIB;National Democratic Party of Liberia;Parti national démocratique libérien;Nationaldemokratische Partei Liberias;;Partido Nacional Demócrata de Liberia;;;;;;;;;x
-social_democrat_idolg_LIB;Labor Party of Liberia;Parti travailliste libérien;Liberianische Arbeiterpartei;;Partido Laborista de Liberia;;;;;;;;;x
+communist_idolg_LEB;Lebanese Communist Party;Parti communiste libanais;Kommunistische Partei Libanon;;Partido Comunista Libanï¿½s;;;;;;;;;x
+fascistic_idolg_LIB;Liberian Fascist Front;Front fasciste libï¿½rien;Faschistische Front Liberias;;Frente Fascista Liberiano;;;;;;;;;x
+paternal_auto_idolg_LIB;Liberian Whig Party;Parti libï¿½ral libï¿½rien;True Whig Party;;Partido Whig Liberiano;;;;;;;;;x
+social_cons_idolg_LIB;Liberian Conservative Party;Parti conservateur libï¿½rien;Konservative Partei Liberias;;Partido Conservador Liberiano;;;;;;;;;x
+market_liberal_idolg_LIB;Liberty Party;Parti de la libertï¿½;Freiheitspartei;;Partido de la Libertad;;;;;;;;;x
+social_liberal_idolg_LIB;National Democratic Party of Liberia;Parti national dï¿½mocratique libï¿½rien;Nationaldemokratische Partei Liberias;;Partido Nacional Demï¿½crata de Liberia;;;;;;;;;x
+social_democrat_idolg_LIB;Labor Party of Liberia;Parti travailliste libï¿½rien;Liberianische Arbeiterpartei;;Partido Laborista de Liberia;;;;;;;;;x
 left_wing_radical_idolg_LIB;Progressive People's Party;Parti populaire progressiste;Fortschritts-Volkpartei;;Partido Progresista del Pueblo;;;;;;;;;x
-maoist_idolg_LIB;Liberian Revolutionary Party;Parti révolutionnaire libérien;Liberianische Revolutionspartei;;Partido Revolucionario Liberiano;;;;;;;;;x
-communist_idolg_LIB;Communist Party of Liberia;Parti communiste libérien;Kommunistische Partei Liberias;;Partido Comunista de Liberia;;;;;;;;;x
+maoist_idolg_LIB;Liberian Revolutionary Party;Parti rï¿½volutionnaire libï¿½rien;Liberianische Revolutionspartei;;Partido Revolucionario Liberiano;;;;;;;;;x
+communist_idolg_LIB;Communist Party of Liberia;Parti communiste libï¿½rien;Kommunistische Partei Liberias;;Partido Comunista de Liberia;;;;;;;;;x
 fascistic_idolg_LIT;LTS;LTS;LTS;;LTS;;;;;;;;;x
 paternal_auto_idolg_LIT;LTS;LTS;LTS;;LTS;;;;;;;;;x
 social_cons_idolg_LIT;LKD;LKD;LKD;;LKD;;;;;;;;;x
@@ -1233,7 +1233,7 @@ social_democrat_idolg_LST;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_LST;People's Party;;;;;;;;;;;;;x
 maoist_idolg_LST;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_LST;Communist Party of Lesotho;;;;;;;;;;;;;x
-fascistic_idolg_LUX;Onofhängeg Nationalpartei;Onofhängeg Nationalpartei;Onofhängeg Nationalpartei;;Onofhängeg Nationalpartei;;;;;;;;;x
+fascistic_idolg_LUX;Onofhï¿½ngeg Nationalpartei;Onofhï¿½ngeg Nationalpartei;Onofhï¿½ngeg Nationalpartei;;Onofhï¿½ngeg Nationalpartei;;;;;;;;;x
 paternal_auto_idolg_LUX;Rietspartei;Rietspartei;Rietspartei;;Rietspartei;;;;;;;;;x
 social_cons_idolg_LUX;CSV;CSV;CSV;;CSV;;;;;;;;;x
 market_liberal_idolg_LUX;Liberal Liga;Liberal Liga;Liberal Liga;;Liberal Liga;;;;;;;;;x
@@ -1287,10 +1287,10 @@ social_democrat_idolg_MCU;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_MCU;People's Party;;;;;;;;;;;;;x
 maoist_idolg_MCU;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_MCU;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_MEX;Unión Nacional Sinarquista;Unión Nacional Sinarquista;Unión Nacional Sinarquista;;Unión Nacional Sinarquista;;;;;;;;;x
+fascistic_idolg_MEX;Uniï¿½n Nacional Sinarquista;Uniï¿½n Nacional Sinarquista;Uniï¿½n Nacional Sinarquista;;Uniï¿½n Nacional Sinarquista;;;;;;;;;x
 paternal_auto_idolg_MEX;Partido Nacional Revolucionario;Partido Nacional Revolucionario;Partido Nacional Revolucionario;;Partido Nacional Revolucionario;;;;;;;;;x
 social_cons_idolg_MEX;Partido Fuerza Popular;Partido Fuerza Popular;Partido Fuerza Popular;;Partido Fuerza Popular;;;;;;;;;x
-market_liberal_idolg_MEX;Partido Liberal de Mexico;Partido Liberal de Mexico;Partido Liberal de Mexico;;Partido Liberal de México;;;;;;;;;x
+market_liberal_idolg_MEX;Partido Liberal de Mexico;Partido Liberal de Mexico;Partido Liberal de Mexico;;Partido Liberal de Mï¿½xico;;;;;;;;;x
 social_liberal_idolg_MEX;Partido Revolucionario Institucional;Partido Revolucionario Institucional;Partido Revolucionario Institucional;;Partido Revolucionario Institucional;;;;;;;;;x
 social_democrat_idolg_MEX;Partido Mexicano de los Trabajadores;Partido Mexicano de los Trabajadores;Partido Mexicano de los Trabajadores;;Partido Mexicano de los Trabajadores;;;;;;;;;x
 left_wing_radical_idolg_MEX;Partido Socialista Obrero;Partido Socialista Obrero;Partido Socialista Obrero;;Partido Socialista Obrero;;;;;;;;;x
@@ -1371,10 +1371,10 @@ communist_idolg_MOL;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_MON;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
 paternal_auto_idolg_MON;Pan-Mongolian Movement;Mouvement pan-mongolien;Panmongolische Bewegung;;Movimiento Panmongol;;;;;;;;;x
 social_cons_idolg_MON;Conservative Party;Parti conservateur;Konservative Partei;;Partido Conservador;;;;;;;;;x
-market_liberal_idolg_MON;Liberal Union;Union libérale;Liberale Union;;Unión Liberal;;;;;;;;;x
-social_liberal_idolg_MON;Social Liberal Party;Parti social libéral;Sozialliberale Partei;;Partido Social Liberal;;;;;;;;;x
-social_democrat_idolg_MON;Social Democratic Party;Parti social démocratique;Sozialdemokratische Partei;;Partido Socialdemócrata;;;;;;;;;x
-left_wing_radical_idolg_MON;Motherland Party;Parti de la mère patrie;Mutterlandspartei;;Partido de la Madre Patria;;;;;;;;;x
+market_liberal_idolg_MON;Liberal Union;Union libï¿½rale;Liberale Union;;Uniï¿½n Liberal;;;;;;;;;x
+social_liberal_idolg_MON;Social Liberal Party;Parti social libï¿½ral;Sozialliberale Partei;;Partido Social Liberal;;;;;;;;;x
+social_democrat_idolg_MON;Social Democratic Party;Parti social dï¿½mocratique;Sozialdemokratische Partei;;Partido Socialdemï¿½crata;;;;;;;;;x
+left_wing_radical_idolg_MON;Motherland Party;Parti de la mï¿½re patrie;Mutterlandspartei;;Partido de la Madre Patria;;;;;;;;;x
 maoist_idolg_MON;Socialist Works Party;Parti des travaux socialistes;Sozialistische Arbeiterpartei;;Partido Socialista del Trabajo;;;;;;;;;x
 communist_idolg_MON;MPRP;MPRP;MPRP;;MPRP;;;;;;;;;x
 fascistic_idolg_MOR;Fascist Front;;;;;;;;;;;;;x
@@ -1440,15 +1440,15 @@ social_democrat_idolg_NAN;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_NAN;People's Party;;;;;;;;;;;;;x
 maoist_idolg_NAN;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_NAN;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_NEP;Nepali Fascist Front;Front fasciste népalais;Faschistische Front Nepals;;Frente Fascista Nepalí;;;;;;;;;x
-paternal_auto_idolg_NEP;National Democratic Party;Parti national démocratique népalais;Nationaldemokratische Partei;;Partido Nacional Demócrata;;;;;;;;;x
-social_cons_idolg_NEP;Nepal Conservative Party;Parti conservateur népalais;Konservative Partei Nepals;;Partido Conservador de Nepal;;;;;;;;;x
+fascistic_idolg_NEP;Nepali Fascist Front;Front fasciste nï¿½palais;Faschistische Front Nepals;;Frente Fascista Nepalï¿½;;;;;;;;;x
+paternal_auto_idolg_NEP;National Democratic Party;Parti national dï¿½mocratique nï¿½palais;Nationaldemokratische Partei;;Partido Nacional Demï¿½crata;;;;;;;;;x
+social_cons_idolg_NEP;Nepal Conservative Party;Parti conservateur nï¿½palais;Konservative Partei Nepals;;Partido Conservador de Nepal;;;;;;;;;x
 market_liberal_idolg_NEP;Rastriya Janashakti Party;Parti Rastriya Janashaki;Rastriya Janashakti-Partei;;Partido Rastriya Janashakti;;;;;;;;;x
-social_liberal_idolg_NEP;Nepal Sadbhawana Party;Parti Sadbhawana népalais;Nepal Sadbhawana-Partei;;Partido Nepal Sadbhawana;;;;;;;;;x
-social_democrat_idolg_NEP;Nepali Congress Party;Parti du Congrès népalais;Nepalesische Kongresspartei;;Partido del Congreso Nepalí;;;;;;;;;x
-left_wing_radical_idolg_NEP;Nepal Workers Peasants Party;Parti népalais des travailleurs et des paysans;Nepalesische Arbeiter- und Bauernpartei;;Partido Trabajadores y Campesinos de Nepal;;;;;;;;;x
+social_liberal_idolg_NEP;Nepal Sadbhawana Party;Parti Sadbhawana nï¿½palais;Nepal Sadbhawana-Partei;;Partido Nepal Sadbhawana;;;;;;;;;x
+social_democrat_idolg_NEP;Nepali Congress Party;Parti du Congrï¿½s nï¿½palais;Nepalesische Kongresspartei;;Partido del Congreso Nepalï¿½;;;;;;;;;x
+left_wing_radical_idolg_NEP;Nepal Workers Peasants Party;Parti nï¿½palais des travailleurs et des paysans;Nepalesische Arbeiter- und Bauernpartei;;Partido Trabajadores y Campesinos de Nepal;;;;;;;;;x
 maoist_idolg_NEP;CPN-UML;CPN-UML;KPN-UML;;CPN-UML;;;;;;;;;x
-communist_idolg_NEP;Communist Party of Nepal;Parti communiste népalais;Kommunistische Partei Nepal;;Partido Comunista de Nepal;;;;;;;;;x
+communist_idolg_NEP;Communist Party of Nepal;Parti communiste nï¿½palais;Kommunistische Partei Nepal;;Partido Comunista de Nepal;;;;;;;;;x
 fascistic_idolg_NEW;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_NEW;Democratic Republican Party;;;;;;;;;;;;;x
 social_cons_idolg_NEW;Democratic Justice Party;;;;;;;;;;;;;x
@@ -1479,11 +1479,11 @@ communist_idolg_NGR;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_NIC;Falange de Nicaragua;Falange de Nicaragua;Falange de Nicaragua;;Falange de Nicaragua;;;;;;;;;x
 paternal_auto_idolg_NIC;Guardia Nacional;Guardia Nacional;Guardia Nacional;;Guardia Nacional;;;;;;;;;x
 social_cons_idolg_NIC;Partido Conservador;Partido Conservador;Partido Conservador;;Partido Conservador;;;;;;;;;x
-market_liberal_idolg_NIC;Partido Democrático;Partido Democrático;Partido Democrático;;Partido Democrático;;;;;;;;;x
+market_liberal_idolg_NIC;Partido Democrï¿½tico;Partido Democrï¿½tico;Partido Democrï¿½tico;;Partido Democrï¿½tico;;;;;;;;;x
 social_liberal_idolg_NIC;Partido Liberal Constitucionalista;Partido Liberal Constitucionalista;Partido Liberal Constitucionalista;;Partido Liberal Constitucionalista;;;;;;;;;x
-social_democrat_idolg_NIC;Partido Socialista Nicaragüense;Partido Socialista Nicaragüense;Partido Socialista Nicaragüense;;Partido Socialista Nicaragüense;;;;;;;;;x
+social_democrat_idolg_NIC;Partido Socialista Nicaragï¿½ense;Partido Socialista Nicaragï¿½ense;Partido Socialista Nicaragï¿½ense;;Partido Socialista Nicaragï¿½ense;;;;;;;;;x
 left_wing_radical_idolg_NIC;Partido Obrero Socialista;Partido Obrero Socialista;Partido Obrero Socialista;;Partido Obrero Socialista;;;;;;;;;x
-maoist_idolg_NIC;Frente Sandinista de Liberación Nacional;Frente Sandinista de Liberación Nacional;Frente Sandinista de Liberación Nacional;;Frente Sandinista de Liberación Nacional;;;;;;;;;x
+maoist_idolg_NIC;Frente Sandinista de Liberaciï¿½n Nacional;Frente Sandinista de Liberaciï¿½n Nacional;Frente Sandinista de Liberaciï¿½n Nacional;;Frente Sandinista de Liberaciï¿½n Nacional;;;;;;;;;x
 communist_idolg_NIC;Partido Comunista de Nicaragua;Partido Comunista de Nicaragua;Partido Comunista de Nicaragua;;Partido Comunista de Nicaragua;;;;;;;;;x
 fascistic_idolg_NIG;GNPP;;;;;;;;;;;;;x
 paternal_auto_idolg_NIG;NPN;;;;;;;;;;;;;x
@@ -1505,7 +1505,7 @@ maoist_idolg_NIU;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_NIU;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_NOR;Hirden;Hirden;Hirden;;Hirden;;;;;;;;;x
 paternal_auto_idolg_NOR;Nasjonalpartiet;Nasjonalpartiet;Nasjonalpartiet;;Nasjonalpartiet;;;;;;;;;x
-social_cons_idolg_NOR;Høyre;Høyre;Høyre;;Høyre;;;;;;;;;x
+social_cons_idolg_NOR;Hï¿½yre;Hï¿½yre;Hï¿½yre;;Hï¿½yre;;;;;;;;;x
 market_liberal_idolg_NOR;Kristelig Folkeparti;Kristelig Folkeparti;Kristelig Folkeparti;;Kristelig Folkeparti;;;;;;;;;x
 social_liberal_idolg_NOR;Senterpartiet;Senterpartiet;Senterpartiet;;Senterpartiet;;;;;;;;;x
 social_democrat_idolg_NOR;Arbeiderpartiet;Arbeiderpartiet;Arbeiderpartiet;;Arbeiderpartiet;;;;;;;;;x
@@ -1534,20 +1534,20 @@ fascistic_idolg_NZL;United National Front;Front national uni;United National Fro
 paternal_auto_idolg_NZL;People's Movement;Mouvement du peuple;People's Movement;;Movimiento del Pueblo;;;;;;;;;x
 social_cons_idolg_NZL;National Party;Parti national;National Party;;Partido Nacional;;;;;;;;;x
 market_liberal_idolg_NZL;United Party;Parti uni;United Party;;Partido Unido;;;;;;;;;x
-social_liberal_idolg_NZL;Reform Party;Parti réformiste;Reform Party;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_NZL;Reform Party;Parti rï¿½formiste;Reform Party;;Partido Reformista;;;;;;;;;x
 social_democrat_idolg_NZL;Labor Party;Parti travailliste;Labour Party;;Partido Laborista;;;;;;;;;x
 left_wing_radical_idolg_NZL;Socialist Party;Parti socialiste;Socialist Party;;Partido Socialista;;;;;;;;;x
-maoist_idolg_NZL;Social Democratic Party;Parti social démocratique;Social Democratic Party;;Partido Socialdemócrata;;;;;;;;;x
+maoist_idolg_NZL;Social Democratic Party;Parti social dï¿½mocratique;Social Democratic Party;;Partido Socialdemï¿½crata;;;;;;;;;x
 communist_idolg_NZL;CPNZ;CPNZ;CPNZ;;CPNZ;;;;;;;;;x
-fascistic_idolg_OMN;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista Árabe;;;;;;;;;x
+fascistic_idolg_OMN;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista ï¿½rabe;;;;;;;;;x
 paternal_auto_idolg_OMN;National Party;Parti national;Nationalpartei;;Partido Nacional;;;;;;;;;x
-social_cons_idolg_OMN;Muslim Brotherhood;Frères musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
-market_liberal_idolg_OMN;Reform Party;Parti réformiste;Reform-Partei;;Partido Reformista;;;;;;;;;x
-social_liberal_idolg_OMN;Arabic Democratic Unionist Party ;Parti unioniste démocratique arabe;Demokratische Einheitspartei Arabiens;;Partido Árabe Unionista Democrático ;;;;;;;;;x
-social_democrat_idolg_OMN;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
-left_wing_radical_idolg_OMN;Arab Popular Party;Parti populaire arabe;Arabische Volkspartei;;Partido Popular Árabe;;;;;;;;;x
+social_cons_idolg_OMN;Muslim Brotherhood;Frï¿½res musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
+market_liberal_idolg_OMN;Reform Party;Parti rï¿½formiste;Reform-Partei;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_OMN;Arabic Democratic Unionist Party ;Parti unioniste dï¿½mocratique arabe;Demokratische Einheitspartei Arabiens;;Partido ï¿½rabe Unionista Democrï¿½tico ;;;;;;;;;x
+social_democrat_idolg_OMN;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
+left_wing_radical_idolg_OMN;Arab Popular Party;Parti populaire arabe;Arabische Volkspartei;;Partido Popular ï¿½rabe;;;;;;;;;x
 maoist_idolg_OMN;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
-communist_idolg_OMN;Communist Party of Oman;Parti communiste d'Oman;Kommunistische Partei des Omans;;Partido Comunista de Omán;;;;;;;;;x
+communist_idolg_OMN;Communist Party of Oman;Parti communiste d'Oman;Kommunistische Partei des Omans;;Partido Comunista de Omï¿½n;;;;;;;;;x
 fascistic_idolg_PAG;NFP;;;;;;;;;;;;;x
 paternal_auto_idolg_PAG;PMCP;;;;;;;;;;;;;x
 social_cons_idolg_PAG;CDP;;;;;;;;;;;;;x
@@ -1557,51 +1557,51 @@ social_democrat_idolg_PAG;PWP;;;;;;;;;;;;;x
 left_wing_radical_idolg_PAG;NTP;;;;;;;;;;;;;x
 maoist_idolg_PAG;PNGLP;;;;;;;;;;;;;x
 communist_idolg_PAG;PCP;;;;;;;;;;;;;x
-fascistic_idolg_PAK;Pakistan Fascist Front;Front fasciste pakistanais;Faschistische Front Pakistan;;Frente Fascista de Pakistán;;;;;;;;;x
+fascistic_idolg_PAK;Pakistan Fascist Front;Front fasciste pakistanais;Faschistische Front Pakistan;;Frente Fascista de Pakistï¿½n;;;;;;;;;x
 paternal_auto_idolg_PAK;Jamaat-e-Islami;Jamaat-e-Islami;Jamaat-e-Islami;;Jamaat-e-Islami;;;;;;;;;x
 social_cons_idolg_PAK;Muslim League;Ligue musulmane;Muslimische Liga;;Liga Musulmana;;;;;;;;;x
-market_liberal_idolg_PAK;Republican Party;Parti républicain;Republikanische Partei;;Partido Republicano;;;;;;;;;x
-social_liberal_idolg_PAK;Pakistan's People's Party;Parti du peuple pakistanais;Pakistanische Volkspartei;;Partido del Pueblo Pakistaní;;;;;;;;;x
+market_liberal_idolg_PAK;Republican Party;Parti rï¿½publicain;Republikanische Partei;;Partido Republicano;;;;;;;;;x
+social_liberal_idolg_PAK;Pakistan's People's Party;Parti du peuple pakistanais;Pakistanische Volkspartei;;Partido del Pueblo Pakistanï¿½;;;;;;;;;x
 social_democrat_idolg_PAK;Awami National Party;Parti national Awami;Nationalpartei Awami;;Partido Nacional Awami;;;;;;;;;x
-left_wing_radical_idolg_PAK;Revolutionary Party;Parti révolutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
-maoist_idolg_PAK;Pakistan Workers Party;Parti des travailleurs pakistanais;Pakistanische Arbeiterpartei;;Partido de los Trabajadores de Pakistán;;;;;;;;;x
-communist_idolg_PAK;Communist Party of Pakistan;Parti communiste pakistanais;Kommunistische Partei Pakistans;;Partido Comunista de Pakistán;;;;;;;;;x
-fascistic_idolg_PAL;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista Árabe;;;;;;;;;x
-paternal_auto_idolg_PAL;The Hashemites;Les Hachémites;Die Hashemiten;;Los Hashemitas;;;;;;;;;x
-social_cons_idolg_PAL;Muslim Brotherhood;Frères musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
-market_liberal_idolg_PAL;Reform Party;Parti réformiste;Reform-Partei;;Partido Reformista;;;;;;;;;x
-social_liberal_idolg_PAL;Arabic Democratic Unionist Party;Parti unioniste démocrate arabe;Demokratische Einheitspartei Arabiens;;Partido Árabe Unionista Democrático;;;;;;;;;x
-social_democrat_idolg_PAL;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
+left_wing_radical_idolg_PAK;Revolutionary Party;Parti rï¿½volutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
+maoist_idolg_PAK;Pakistan Workers Party;Parti des travailleurs pakistanais;Pakistanische Arbeiterpartei;;Partido de los Trabajadores de Pakistï¿½n;;;;;;;;;x
+communist_idolg_PAK;Communist Party of Pakistan;Parti communiste pakistanais;Kommunistische Partei Pakistans;;Partido Comunista de Pakistï¿½n;;;;;;;;;x
+fascistic_idolg_PAL;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista ï¿½rabe;;;;;;;;;x
+paternal_auto_idolg_PAL;The Hashemites;Les Hachï¿½mites;Die Hashemiten;;Los Hashemitas;;;;;;;;;x
+social_cons_idolg_PAL;Muslim Brotherhood;Frï¿½res musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
+market_liberal_idolg_PAL;Reform Party;Parti rï¿½formiste;Reform-Partei;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_PAL;Arabic Democratic Unionist Party;Parti unioniste dï¿½mocrate arabe;Demokratische Einheitspartei Arabiens;;Partido ï¿½rabe Unionista Democrï¿½tico;;;;;;;;;x
+social_democrat_idolg_PAL;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
 left_wing_radical_idolg_PAL;Worker-Communist Party;Parti communiste et des travailleurs;Kommunistische Arbeiterpartei;;Partido Comunista de los Trabajadores;;;;;;;;;x
 maoist_idolg_PAL;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
-communist_idolg_PAL;Palestine Communist Party;Parti communiste palestinien;Kommunistische Partei Palästinas;;Partido Comunista de Palestina;;;;;;;;;x
-fascistic_idolg_PAN;Falange de Panamá;Falange de Panamá;Falange de Panamá;;Falange de Panamá;;;;;;;;;x
-paternal_auto_idolg_PAN;Partido Nacional de Panamá;Partido Nacional de Panamá;Partido Nacional de Panamá;;Partido Nacional de Panamá;;;;;;;;;x
+communist_idolg_PAL;Palestine Communist Party;Parti communiste palestinien;Kommunistische Partei Palï¿½stinas;;Partido Comunista de Palestina;;;;;;;;;x
+fascistic_idolg_PAN;Falange de Panamï¿½;Falange de Panamï¿½;Falange de Panamï¿½;;Falange de Panamï¿½;;;;;;;;;x
+paternal_auto_idolg_PAN;Partido Nacional de Panamï¿½;Partido Nacional de Panamï¿½;Partido Nacional de Panamï¿½;;Partido Nacional de Panamï¿½;;;;;;;;;x
 social_cons_idolg_PAN;Partido Conservador;Partido Conservador;Partido Conservador;;Partido Conservador;;;;;;;;;x
 market_liberal_idolg_PAN;MOLIRENA;MOLIRENA;MOLIRENA;;MOLIRENA;;;;;;;;;x
 social_liberal_idolg_PAN;Partido Revolucionario;Partido Revolucionario;Partido Revolucionario;;Partido Revolucionario;;;;;;;;;x
-social_democrat_idolg_PAN;Partido Revolucionario Democrático;Partido Revolucionario Democrático;Partido Revolucionario Democrático;;Partido Revolucionario Democrático;;;;;;;;;x
-left_wing_radical_idolg_PAN;Partido del Pueblo de Panamá;Partido del Pueblo de Panamá;Partido del Pueblo de Panamá;;Partido del Pueblo de Panamá;;;;;;;;;x
+social_democrat_idolg_PAN;Partido Revolucionario Democrï¿½tico;Partido Revolucionario Democrï¿½tico;Partido Revolucionario Democrï¿½tico;;Partido Revolucionario Democrï¿½tico;;;;;;;;;x
+left_wing_radical_idolg_PAN;Partido del Pueblo de Panamï¿½;Partido del Pueblo de Panamï¿½;Partido del Pueblo de Panamï¿½;;Partido del Pueblo de Panamï¿½;;;;;;;;;x
 maoist_idolg_PAN;Frente Obrero Socialista;Frente Obrero Socialista;Frente Obrero Socialista;;Frente Obrero Socialista;;;;;;;;;x
-communist_idolg_PAN;Partido Comunista de Panamá;Partido Comunista de Panamá;Partido Comunista de Panamá;;Partido Comunista de Panamá;;;;;;;;;x
+communist_idolg_PAN;Partido Comunista de Panamï¿½;Partido Comunista de Panamï¿½;Partido Comunista de Panamï¿½;;Partido Comunista de Panamï¿½;;;;;;;;;x
 fascistic_idolg_PAR;Falange del Paraguayo;Falange del Paraguayo;Falange del Paraguayo;;Falange del Paraguay;;;;;;;;;x
 paternal_auto_idolg_PAR;Partido Colorado;Partido Colorado;Partido Colorado;;Partido Colorado;;;;;;;;;x
 social_cons_idolg_PAR;Partido Conservador;Partido Conservador;Partido Conservador;;Partido Conservador;;;;;;;;;x
 market_liberal_idolg_PAR;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;;x
-social_liberal_idolg_PAR;Partido Liberal Radical Auténtico;Partido Liberal Radical Auténtico;Partido Liberal Radical Auténtico;;Partido Liberal Radical Auténtico;;;;;;;;;x
+social_liberal_idolg_PAR;Partido Liberal Radical Autï¿½ntico;Partido Liberal Radical Autï¿½ntico;Partido Liberal Radical Autï¿½ntico;;Partido Liberal Radical Autï¿½ntico;;;;;;;;;x
 social_democrat_idolg_PAR;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;;x
 left_wing_radical_idolg_PAR;Partido Socialista Revolucionario;Partido Socialista Revolucionario;Partido Socialista Revolucionario;;Partido Socialista Revolucionario;;;;;;;;;x
 maoist_idolg_PAR;Partido Patria Libre;Partido Patria Libre;Partido Patria Libre;;Partido Patria Libre;;;;;;;;;x
 communist_idolg_PAR;Partido Comunista Paraguayo;Partido Comunista Paraguayo;Partido Comunista Paraguayo;;Partido Comunista Paraguayo;;;;;;;;;x
 fascistic_idolg_PER;Hezb-e Pan-Iranist;Hezb-e Pan-Iranist;Hezb-e Pan-Iranist;;Hezb-e Paniranista;;;;;;;;;x
 paternal_auto_idolg_PER;Hezb-e Rastakhiz;Hezb-e Rastakhiz;Hezb-e Rastakhiz;;Hezb-e Rastakhiz;;;;;;;;;x
-social_cons_idolg_PER;Hezb-e Iran;Hezb-e Iran;Hezb-e Iran;;Hezb-e Irán;;;;;;;;;x
-market_liberal_idolg_PER;Jebhe Milli Iran;Jebhe Milli Iran;Jebhe Milli Iran;;Jebhe Milli Irán;;;;;;;;;x
-social_liberal_idolg_PER;Hezb-e Musherevete-ye Iran;Hezb-e Musherevete-ye Iran;Hezb-e Musherevete-ye Iran;;Hezb-e Musherevete-ye Irán;;;;;;;;;x
-social_democrat_idolg_PER;Hezb-e Zahmetkashha Iran;Hezb-e Zahmetkashha Iran;Hezb-e Zahmetkashha Iran;;Hezb-e Zahmetkashha Irán;;;;;;;;;x
+social_cons_idolg_PER;Hezb-e Iran;Hezb-e Iran;Hezb-e Iran;;Hezb-e Irï¿½n;;;;;;;;;x
+market_liberal_idolg_PER;Jebhe Milli Iran;Jebhe Milli Iran;Jebhe Milli Iran;;Jebhe Milli Irï¿½n;;;;;;;;;x
+social_liberal_idolg_PER;Hezb-e Musherevete-ye Iran;Hezb-e Musherevete-ye Iran;Hezb-e Musherevete-ye Iran;;Hezb-e Musherevete-ye Irï¿½n;;;;;;;;;x
+social_democrat_idolg_PER;Hezb-e Zahmetkashha Iran;Hezb-e Zahmetkashha Iran;Hezb-e Zahmetkashha Iran;;Hezb-e Zahmetkashha Irï¿½n;;;;;;;;;x
 left_wing_radical_idolg_PER;Hezb-e Tudeh;Hezb-e Tudeh;Hezb-e Tudeh;;Hezb-e Tudeh;;;;;;;;;x
-maoist_idolg_PER;Hezb-e Kar-e Iran;Hezb-e Kar-e Iran;Hezb-e Kar-e Iran;;Hezb-e Kar-e Irán;;;;;;;;;x
-communist_idolg_PER;Hezb-e Komunist Iran;Hezb-e Komunist Iran;Hezb-e Komunist Iran;;Hezb-e Komunist Irán;;;;;;;;;x
+maoist_idolg_PER;Hezb-e Kar-e Iran;Hezb-e Kar-e Iran;Hezb-e Kar-e Iran;;Hezb-e Kar-e Irï¿½n;;;;;;;;;x
+communist_idolg_PER;Hezb-e Komunist Iran;Hezb-e Komunist Iran;Hezb-e Komunist Iran;;Hezb-e Komunist Irï¿½n;;;;;;;;;x
 fascistic_idolg_PHI;Sakdalista;Sakdalista;Sakdalista;;Sakdalista;;;;;;;;;x
 paternal_auto_idolg_PHI;KALIBAPI;KALIBAPI;KALIBAPI;;KALIBAPI;;;;;;;;;x
 social_cons_idolg_PHI;Kilusang Bagong Lipunan;Kilusang Bagong Lipunan;Kilusang Bagong Lipunan;;Kilusang Bagong Lipunan;;;;;;;;;x
@@ -1621,7 +1621,7 @@ left_wing_radical_idolg_POL;PPS-L;PPS-L;PPS-L;;PPS-L;;;;;;;;;x
 maoist_idolg_POL;NPR;NPR;NPR;;NPR;;;;;;;;;x
 communist_idolg_POL;KPRP;KPRP;KPRP;;KPRP;;;;;;;;;x
 fascistic_idolg_POR;MNS;MNS;MNS;;MNS;;;;;;;;;x
-paternal_auto_idolg_POR;União Nacional;União Nacional;União Nacional;;União Nacional;;;;;;;;;x
+paternal_auto_idolg_POR;Uniï¿½o Nacional;Uniï¿½o Nacional;Uniï¿½o Nacional;;Uniï¿½o Nacional;;;;;;;;;x
 social_cons_idolg_POR;PNR;PNR;PNR;;PNR;;;;;;;;;x
 market_liberal_idolg_POR;PD;PD;PD;;PD;;;;;;;;;x
 social_liberal_idolg_POR;PSD;PSD;PSD;;PSD;;;;;;;;;x
@@ -1639,20 +1639,20 @@ left_wing_radical_idolg_PRC;People's Party;;;;;;;;;;;;;x
 maoist_idolg_PRC;Worker's Party;;;;;;;;;;;;;x
 communist_idolg_PRC;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_PRK;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
-paternal_auto_idolg_PRK;Democratic Republican Party;Parti républicain démocratique;Demokratische Republikanerpartei;;Partido Democrático Republicano;;;;;;;;;x
-social_cons_idolg_PRK;Democratic Justice Party;Parti de la justice démocratique;Demokratische Gerechtigkeitspartei;;Partido de la Justicia Democrática;;;;;;;;;x
-market_liberal_idolg_PRK;Liberal Party;Parti libéral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
-social_liberal_idolg_PRK;Democratic Party;Parti démocratique ;Demokratische Partei;;Partido Demócrata;;;;;;;;;x
-social_democrat_idolg_PRK;Democratic Labor Party;Parti travailliste démocratique;Demokratische Arbeiterpartei;;Partido Demócrata Laborista;;;;;;;;;x
-left_wing_radical_idolg_PRK;People's Party of Korea;Parti du peuple coréen;Koreanische Volkspartei;;Partido del Pueblo de Corea;;;;;;;;;x
-maoist_idolg_PRK;Communist Party of Korea;Parti communiste coréen;Kommunistische Partei Koreas;;Partido Comunista de Corea;;;;;;;;;x
-communist_idolg_PRK;Workers' Party of Korea;Parti des travailleurs coréens;Koreanische Arbeiterpartei;;Partido de los Trabajadores de Corea;;;;;;;;;x
-fascistic_idolg_PRU;Falange del Perú;Falange del Perú;Falange del Perú;;Falange del Perú;;;;;;;;;x
+paternal_auto_idolg_PRK;Democratic Republican Party;Parti rï¿½publicain dï¿½mocratique;Demokratische Republikanerpartei;;Partido Democrï¿½tico Republicano;;;;;;;;;x
+social_cons_idolg_PRK;Democratic Justice Party;Parti de la justice dï¿½mocratique;Demokratische Gerechtigkeitspartei;;Partido de la Justicia Democrï¿½tica;;;;;;;;;x
+market_liberal_idolg_PRK;Liberal Party;Parti libï¿½ral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
+social_liberal_idolg_PRK;Democratic Party;Parti dï¿½mocratique ;Demokratische Partei;;Partido Demï¿½crata;;;;;;;;;x
+social_democrat_idolg_PRK;Democratic Labor Party;Parti travailliste dï¿½mocratique;Demokratische Arbeiterpartei;;Partido Demï¿½crata Laborista;;;;;;;;;x
+left_wing_radical_idolg_PRK;People's Party of Korea;Parti du peuple corï¿½en;Koreanische Volkspartei;;Partido del Pueblo de Corea;;;;;;;;;x
+maoist_idolg_PRK;Communist Party of Korea;Parti communiste corï¿½en;Kommunistische Partei Koreas;;Partido Comunista de Corea;;;;;;;;;x
+communist_idolg_PRK;Workers' Party of Korea;Parti des travailleurs corï¿½ens;Koreanische Arbeiterpartei;;Partido de los Trabajadores de Corea;;;;;;;;;x
+fascistic_idolg_PRU;Falange del Perï¿½;Falange del Perï¿½;Falange del Perï¿½;;Falange del Perï¿½;;;;;;;;;x
 paternal_auto_idolg_PRU;Partido Civil;Partido Civil;Partido Civil;;Partido Civil;;;;;;;;;x
-social_cons_idolg_PRU;Acción Popular;Acción Popular;Acción Popular;;Acción Popular;;;;;;;;;x
-market_liberal_idolg_PRU;Partido Liberal del Perú;Partido Liberal del Perú;Partido Liberal del Perú;;Partido Liberal del Perú;;;;;;;;;x
+social_cons_idolg_PRU;Acciï¿½n Popular;Acciï¿½n Popular;Acciï¿½n Popular;;Acciï¿½n Popular;;;;;;;;;x
+market_liberal_idolg_PRU;Partido Liberal del Perï¿½;Partido Liberal del Perï¿½;Partido Liberal del Perï¿½;;Partido Liberal del Perï¿½;;;;;;;;;x
 social_liberal_idolg_PRU;Alianza Popular Revolucionaria Americana;Alianza Popular Revolucionaria Americana;Alianza Popular Revolucionaria Americana;;Alianza Popular Revolucionaria Americana;;;;;;;;;x
-social_democrat_idolg_PRU;Partido Socialista del Perú;Partido Socialista del Perú;Partido Socialista del Perú;;Partido Socialista del Perú;;;;;;;;;x
+social_democrat_idolg_PRU;Partido Socialista del Perï¿½;Partido Socialista del Perï¿½;Partido Socialista del Perï¿½;;Partido Socialista del Perï¿½;;;;;;;;;x
 left_wing_radical_idolg_PRU;Partido Revolucionario de los Trabajadores;Partido Revolucionario de los Trabajadores;Partido Revolucionario de los Trabajadores;;Partido Revolucionario de los Trabajadores;;;;;;;;;x
 maoist_idolg_PRU;Gruppo Marxista de los Trabajadores;Gruppo Marxista de los Trabajadores;Gruppo Marxista de los Trabajadores;;Gruppo Marxista de los Trabajadores;;;;;;;;;x
 communist_idolg_PRU;Partido Comunista Peruano;Partido Comunista Peruano;Partido Comunista Peruano;;Partido Comunista Peruano;;;;;;;;;x
@@ -1674,14 +1674,14 @@ social_democrat_idolg_QTR;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_QTR;People's Party;;;;;;;;;;;;;x
 maoist_idolg_QTR;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_QTR;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_QUE;Parti Québécois;;;;;;;;;;;;;x
+fascistic_idolg_QUE;Parti Quï¿½bï¿½cois;;;;;;;;;;;;;x
 paternal_auto_idolg_QUE;Equality Party;;;;;;;;;;;;;x
 social_cons_idolg_QUE;Bloc Populaire;;;;;;;;;;;;;x
 market_liberal_idolg_QUE;Parti National Populaire;;;;;;;;;;;;;x
 social_liberal_idolg_QUE;Quebec Liberal Party;;;;;;;;;;;;;x
-social_democrat_idolg_QUE;Ralliement Créditiste du Québec;;;;;;;;;;;;;x
+social_democrat_idolg_QUE;Ralliement Crï¿½ditiste du Quï¿½bec;;;;;;;;;;;;;x
 left_wing_radical_idolg_QUE;People's Party;;;;;;;;;;;;;x
-maoist_idolg_QUE;Parti marxiste–léniniste du Québec;;;;;;;;;;;;;x
+maoist_idolg_QUE;Parti marxisteï¿½lï¿½niniste du Quï¿½bec;;;;;;;;;;;;;x
 communist_idolg_QUE;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_REB;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_REB;Democratic Republican Party;;;;;;;;;;;;;x
@@ -1750,10 +1750,10 @@ fascistic_idolg_SAL;Falange de El Salvador;Falange de El Salvador;Falange de El 
 paternal_auto_idolg_SAL;Partido Nacional;Partido Nacional;Partido Nacional;;Partido Nacional;;;;;;;;;x
 social_cons_idolg_SAL;ARENA;ARENA;ARENA;;ARENA;;;;;;;;;x
 market_liberal_idolg_SAL;Partido Nacional Liberal;Partido Nacional Liberal;Partido Nacional Liberal;;Partido Nacional Liberal;;;;;;;;;x
-social_liberal_idolg_SAL;Centro Democrático Unido;Centro Democrático Unido;Centro Democrático Unido;;Centro Democrático Unido;;;;;;;;;x
-social_democrat_idolg_SAL;Partido Social Demócrata;Partido Social Demócrata;Partido Social Demócrata;;Partido Social Demócrata;;;;;;;;;x
+social_liberal_idolg_SAL;Centro Democrï¿½tico Unido;Centro Democrï¿½tico Unido;Centro Democrï¿½tico Unido;;Centro Democrï¿½tico Unido;;;;;;;;;x
+social_democrat_idolg_SAL;Partido Social Demï¿½crata;Partido Social Demï¿½crata;Partido Social Demï¿½crata;;Partido Social Demï¿½crata;;;;;;;;;x
 left_wing_radical_idolg_SAL;FMLN;FMLN;FMLN;;FMLN;;;;;;;;;x
-maoist_idolg_SAL;Ejército Revolucionario del Pueblo;Ejército Revolucionario del Pueblo;Ejército Revolucionario del Pueblo;;Ejército Revolucionario del Pueblo;;;;;;;;;x
+maoist_idolg_SAL;Ejï¿½rcito Revolucionario del Pueblo;Ejï¿½rcito Revolucionario del Pueblo;Ejï¿½rcito Revolucionario del Pueblo;;Ejï¿½rcito Revolucionario del Pueblo;;;;;;;;;x
 communist_idolg_SAL;Partido Comunista de El Salvador;Partido Comunista de El Salvador;Partido Comunista de El Salvador;;Partido Comunista de El Salvador;;;;;;;;;x
 fascistic_idolg_SAR;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_SAR;Democratic Republican Party;;;;;;;;;;;;;x
@@ -1764,15 +1764,15 @@ social_democrat_idolg_SAR;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_SAR;People's Party;;;;;;;;;;;;;x
 maoist_idolg_SAR;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_SAR;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_SAU;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista Árabe;;;;;;;;;x
+fascistic_idolg_SAU;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista ï¿½rabe;;;;;;;;;x
 paternal_auto_idolg_SAU;The Sauds;Les Saouds;Die Saudis;;Los Sauds;;;;;;;;;x
-social_cons_idolg_SAU;Muslim Brotherhood;Les frères musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
-market_liberal_idolg_SAU;Reform Party;Parti réformiste;Reformpartei;;Partido Reformista;;;;;;;;;x
-social_liberal_idolg_SAU;Arabic Democratic Unionist Party ;Parti unioniste démocrate arabe;Demokratische Einheitspartei Arabiens;;Partido Árabe Unionista Democrático ;;;;;;;;;x
-social_democrat_idolg_SAU;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
-left_wing_radical_idolg_SAU;Arab Popular Party;Parti populaire arabe;Arabische Volkspartei;;Partido Popular Árabe;;;;;;;;;x
+social_cons_idolg_SAU;Muslim Brotherhood;Les frï¿½res musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
+market_liberal_idolg_SAU;Reform Party;Parti rï¿½formiste;Reformpartei;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_SAU;Arabic Democratic Unionist Party ;Parti unioniste dï¿½mocrate arabe;Demokratische Einheitspartei Arabiens;;Partido ï¿½rabe Unionista Democrï¿½tico ;;;;;;;;;x
+social_democrat_idolg_SAU;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
+left_wing_radical_idolg_SAU;Arab Popular Party;Parti populaire arabe;Arabische Volkspartei;;Partido Popular ï¿½rabe;;;;;;;;;x
 maoist_idolg_SAU;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
-communist_idolg_SAU;Communist Party of Saudi Arabia;Parti communiste d'Arabie Saoudite;Kommunistische Partei Saudi-Arabiens;;Partido Comunista de Arabia Saudí;;;;;;;;;x
+communist_idolg_SAU;Communist Party of Saudi Arabia;Parti communiste d'Arabie Saoudite;Kommunistische Partei Saudi-Arabiens;;Partido Comunista de Arabia Saudï¿½;;;;;;;;;x
 fascistic_idolg_SCH;NF;NF;NF;;NF;;;;;;;;;x
 paternal_auto_idolg_SCH;KKP;KKP;KKP;;KKP;;;;;;;;;x
 social_cons_idolg_SCH;BGB;BGB;BGB;;BGB;;;;;;;;;x
@@ -1847,11 +1847,11 @@ maoist_idolg_SHL;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_SHL;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_SIA;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
 paternal_auto_idolg_SIA;Khana Ratsadon;Khana Ratsadon;Khana Ratsadon;;Khana Ratsadon;;;;;;;;;x
-social_cons_idolg_SIA;Democrat Party;Parti démocrate;Demokratische Partei;;Partido Demócrata;;;;;;;;;x
-market_liberal_idolg_SIA;Liberal Party;Parti libéral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
+social_cons_idolg_SIA;Democrat Party;Parti dï¿½mocrate;Demokratische Partei;;Partido Demï¿½crata;;;;;;;;;x
+market_liberal_idolg_SIA;Liberal Party;Parti libï¿½ral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
 social_liberal_idolg_SIA;Khabuankarn Seri Thai;Khabuankarn Seri Thai;Khabuankarn Seri Thai;;Khabuankarn Seri Thai;;;;;;;;;x
-social_democrat_idolg_SIA;Social Democrat Party;Parti social démocrate;Sozialdemokratische Partei;;Partido Socialdemócrata;;;;;;;;;x
-left_wing_radical_idolg_SIA;Revolutionary Party;Parti révolutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
+social_democrat_idolg_SIA;Social Democrat Party;Parti social dï¿½mocrate;Sozialdemokratische Partei;;Partido Socialdemï¿½crata;;;;;;;;;x
+left_wing_radical_idolg_SIA;Revolutionary Party;Parti rï¿½volutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
 maoist_idolg_SIA;Workers and Peasants Party;Parti des travailleurs et des paysans;Arbeiter- und Bauernpartei;;Partido Trabajadores y Campesinos;;;;;;;;;x
 communist_idolg_SIA;Communist Party of Siam;Parti communiste du Siam;Kommunistische Partei Siams;;Partido Comunista de Siam;;;;;;;;;x
 fascistic_idolg_SIB;Fascist Front;;;;;;;;;;;;;x
@@ -1875,10 +1875,10 @@ communist_idolg_SIE;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_SIK;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
 paternal_auto_idolg_SIK;National Party;Parti national;Nationalpartei;;Partido Nacional;;;;;;;;;x
 social_cons_idolg_SIK;Conservative Party;Parti conservateur;Konservative Partei;;Partido Conservador;;;;;;;;;x
-market_liberal_idolg_SIK;Liberal Party;Parti libéral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
-social_liberal_idolg_SIK;Social Liberal Party;Parti social libéral;Sozialliberale Partei;;Partido Social Liberal;;;;;;;;;x
-social_democrat_idolg_SIK;Social Democrat Party;Parti social démocrate;Sozialdemokratische Partei;;Partido Socialdemócrata;;;;;;;;;x
-left_wing_radical_idolg_SIK;Revolutionary Party;Parti révolutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
+market_liberal_idolg_SIK;Liberal Party;Parti libï¿½ral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
+social_liberal_idolg_SIK;Social Liberal Party;Parti social libï¿½ral;Sozialliberale Partei;;Partido Social Liberal;;;;;;;;;x
+social_democrat_idolg_SIK;Social Democrat Party;Parti social dï¿½mocrate;Sozialdemokratische Partei;;Partido Socialdemï¿½crata;;;;;;;;;x
+left_wing_radical_idolg_SIK;Revolutionary Party;Parti rï¿½volutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
 maoist_idolg_SIK;Workers and Peasants Party;Parti des travailleurs et des paysans;Arbeiter- und Bauernpartei;;Partido Trabajadores y Campesinos;;;;;;;;;x
 communist_idolg_SIK;Communist Party of Sinkiang;Parti communiste de Sinkiang;Kommunistische Partei Xinjiangs;;Partido Comunista de Xinjiang;;;;;;;;;x
 fascistic_idolg_SKA;Fascist Front;;;;;;;;;;;;;x
@@ -1917,15 +1917,15 @@ social_democrat_idolg_SLL;Peace, Unity, and Development Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_SLL;For Justice and Development;;;;;;;;;;;;;x
 maoist_idolg_SLL;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_SLL;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_SLO;Hlinkova slovenská Iudová Strana;Hlinkova slovenská Iudová Strana;Hlinkova slovenská Iudová Strana;;Hlinkova slovenská Iudová strana;;;;;;;;;x
-paternal_auto_idolg_SLO;Slovenská Národná Strana;Slovenská Národná Strana;Slovenská Národná Strana;;Slovenská národná strana;;;;;;;;;x
+fascistic_idolg_SLO;Hlinkova slovenskï¿½ Iudovï¿½ Strana;Hlinkova slovenskï¿½ Iudovï¿½ Strana;Hlinkova slovenskï¿½ Iudovï¿½ Strana;;Hlinkova slovenskï¿½ Iudovï¿½ strana;;;;;;;;;x
+paternal_auto_idolg_SLO;Slovenskï¿½ Nï¿½rodnï¿½ Strana;Slovenskï¿½ Nï¿½rodnï¿½ Strana;Slovenskï¿½ Nï¿½rodnï¿½ Strana;;Slovenskï¿½ nï¿½rodnï¿½ strana;;;;;;;;;x
 social_cons_idolg_SLO;Strana Slobody;Strana Slobody;Strana Slobody;;Strana slobody;;;;;;;;;x
 market_liberal_idolg_SLO;Liberalna Stranka;Liberalna Stranka;Liberalna Stranka;;Liberalna stranka;;;;;;;;;x
 social_liberal_idolg_SLO;Demokratska Stranka;Demokratska Stranka;Demokratska Stranka;;Demokratska stranka;;;;;;;;;x
-social_democrat_idolg_SLO;Sociálnodemokratická Stranka Slovenska;Sociálnodemokratická Stranka Slovenska;Sociálnodemokratická Stranka Slovenska;;Sociálnodemokratická strana Slovenska;;;;;;;;;x
-left_wing_radical_idolg_SLO;Strana Práce;Strana Práce;Strana Práce;;Strana práce;;;;;;;;;x
+social_democrat_idolg_SLO;Sociï¿½lnodemokratickï¿½ Stranka Slovenska;Sociï¿½lnodemokratickï¿½ Stranka Slovenska;Sociï¿½lnodemokratickï¿½ Stranka Slovenska;;Sociï¿½lnodemokratickï¿½ strana Slovenska;;;;;;;;;x
+left_wing_radical_idolg_SLO;Strana Prï¿½ce;Strana Prï¿½ce;Strana Prï¿½ce;;Strana prï¿½ce;;;;;;;;;x
 maoist_idolg_SLO;Strana Slovenskej Obrody;Strana Slovenskej Obrody;Strana Slovenskej Obrody;;Strana slovenskej obrody;;;;;;;;;x
-communist_idolg_SLO;Komunistická Strana Slovenska;Komunistická Strana Slovenska;Komunistická Strana Slovenska;;Komunistická strana Slovenska;;;;;;;;;x
+communist_idolg_SLO;Komunistickï¿½ Strana Slovenska;Komunistickï¿½ Strana Slovenska;Komunistickï¿½ Strana Slovenska;;Komunistickï¿½ strana Slovenska;;;;;;;;;x
 fascistic_idolg_SLV;Slovenian National Party;;;;;;;;;;;;;x
 paternal_auto_idolg_SLV;Lipa;;;;;;;;;;;;;x
 social_cons_idolg_SLV;Slovenian People's Party;;;;;;;;;;;;;x
@@ -1954,21 +1954,21 @@ left_wing_radical_idolg_SOM;For Justice and Development;;;;;;;;;;;;;x
 maoist_idolg_SOM;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_SOM;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_SOV;NTS;NTS;NTS;;NTS;;;;;;;;;x
-paternal_auto_idolg_SOV;ROA;ROA;ROA;;ROA;;;;;;;;;x
-social_cons_idolg_SOV;Octobrist;Octobrist;Octobrist;;Octobrist;;;;;;;;;x
-market_liberal_idolg_SOV;Kadets;Kadets;Kadets;;Kadets;;;;;;;;;x
-social_liberal_idolg_SOV;Trudoviks;Trudoviks;Trudoviks;;Trudoviks;;;;;;;;;x
-social_democrat_idolg_SOV;Socialist-Revolutionary Party ;Parti socialiste-révolutionnaire;Sozialistische Revolutionspartei;;Partido Social Revolucionario ;;;;;;;;;x
-left_wing_radical_idolg_SOV;Bukharinite Counter-Revolutionaries;Contre-révolutionnaires bukharinites;Bukharinite Konterrevolutionäre;;Contrarrevolucionarios Bukharinitas;;;;;;;;;x
-maoist_idolg_SOV;Trotskyite Counter-Revolutionaries;Contre-révolutionnaires trotskytes;Trotskyite Konterrevolutionäre;;Contrarrevolucionarios Trotskistas;;;;;;;;;x
-communist_idolg_SOV;Communist Party;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x
+paternal_auto_idolg_SOV;Ğ ĞĞ;ROA;ROA;;ROA;;;;;;;;;x
+social_cons_idolg_SOV;ĞĞºÑ‚ÑĞ±Ñ€Ğ¸ÑÑ‚Ñ‹;Octobrist;Octobrist;;Octobrist;;;;;;;;;x
+market_liberal_idolg_SOV;ĞšĞ°Ğ´ĞµÑ‚Ñ‹;Kadets;Kadets;;Kadets;;;;;;;;;x
+social_liberal_idolg_SOV;Ğ¢Ñ€ÑƒĞ´Ğ¾Ğ²Ğ¸ĞºĞ¸;Trudoviks;Trudoviks;;Trudoviks;;;;;;;;;x
+social_democrat_idolg_SOV;ĞŸĞ°Ñ€Ñ‚Ğ¸Ñ Ğ¡Ğ¾Ñ†Ğ¸Ğ°Ğ»Ğ¸ÑÑ‚Ğ¾Ğ²-Ñ€ĞµĞ²Ğ¾Ğ»ÑÑ†Ğ¸Ğ¾Ğ½ĞµÑ€Ğ¾Ğ² ;Parti socialiste-rï¿½volutionnaire;Sozialistische Revolutionspartei;;Partido Social Revolucionario ;;;;;;;;;x
+left_wing_radical_idolg_SOV;Ğ‘ÑƒÑ…Ğ°Ñ€Ğ¸Ğ½ÑĞºĞ¸Ğµ ĞºĞ¾Ğ½Ñ‚Ñ€Ñ€ĞµĞ²Ğ¾Ğ»ÑÑ†Ğ¸Ğ¾Ğ½ĞµÑ€Ñ‹;Contre-rï¿½volutionnaires bukharinites;Bukharinite Konterrevolutionï¿½re;;Contrarrevolucionarios Bukharinitas;;;;;;;;;x
+maoist_idolg_SOV;Ğ¢Ñ€Ğ¾Ñ†ĞºĞ¸ÑÑ‚ÑĞºĞ¸Ğµ ĞºĞ¾Ğ½Ñ‚Ñ€Ñ€ĞµĞ²Ğ¾Ğ»ÑÑ†Ğ¸Ğ¾Ğ½ĞµÑ€Ñ‹;Contre-rï¿½volutionnaires trotskytes;Trotskyite Konterrevolutionï¿½re;;Contrarrevolucionarios Trotskistas;;;;;;;;;x
+communist_idolg_SOV;ĞšĞ¾Ğ¼Ğ¼ÑƒĞ½Ğ¸ÑÑ‚Ğ¸Ñ‡ĞµÑĞºĞ°Ñ Ğ¿Ğ°Ñ€Ñ‚Ğ¸Ñ Ğ¡Ğ¾Ğ²ĞµÑ‚ÑĞºĞ¾Ğ³Ğ¾ Ğ¡Ğ¾ÑĞ·Ğ°;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x
 fascistic_idolg_SPA;Falange;Falange;Falange;;Falange;;;;;;;;;x
 paternal_auto_idolg_SPA;Partido Carlista;Partido Carlista;Partido Carlista;;Partido Carlista;;;;;;;;;x
 social_cons_idolg_SPA;Alianza Popular;Alianza Popular;Alianza Popular;;Alianza Popular;;;;;;;;;x
-market_liberal_idolg_SPA;Unión de Centro Democrático;Unión de Centro Democrático;Unión de Centro Democrático;;Unión de Centro Democrático;;;;;;;;;x
-social_liberal_idolg_SPA;Centro Democrático y Social;Centro Democrático y Social;Centro Democrático y Social;;Centro Democrático y Social;;;;;;;;;x
-social_democrat_idolg_SPA;Partido Socialista Obrero Español;Partido Socialista Obrero Español;Partido Socialista Obrero Español;;Partido Socialista Obrero Español;;;;;;;;;x
-left_wing_radical_idolg_SPA;Partido Comunista de España;Partido Comunista de España;Partido Comunista de España;;Partido Comunista de España;;;;;;;;;x
+market_liberal_idolg_SPA;Uniï¿½n de Centro Democrï¿½tico;Uniï¿½n de Centro Democrï¿½tico;Uniï¿½n de Centro Democrï¿½tico;;Uniï¿½n de Centro Democrï¿½tico;;;;;;;;;x
+social_liberal_idolg_SPA;Centro Democrï¿½tico y Social;Centro Democrï¿½tico y Social;Centro Democrï¿½tico y Social;;Centro Democrï¿½tico y Social;;;;;;;;;x
+social_democrat_idolg_SPA;Partido Socialista Obrero Espaï¿½ol;Partido Socialista Obrero Espaï¿½ol;Partido Socialista Obrero Espaï¿½ol;;Partido Socialista Obrero Espaï¿½ol;;;;;;;;;x
+left_wing_radical_idolg_SPA;Partido Comunista de Espaï¿½a;Partido Comunista de Espaï¿½a;Partido Comunista de Espaï¿½a;;Partido Comunista de Espaï¿½a;;;;;;;;;x
 maoist_idolg_SPA;PCE(m-l);PCE(m-l);PCE(m-l);;PCE(m-l);;;;;;;;;x
 communist_idolg_SPA;Partido Comunista de los Trabajadores;Partido Comunista de los Trabajadores;Partido Comunista de los Trabajadores;;Partido Comunista de los Trabajadores;;;;;;;;;x
 fascistic_idolg_SRL;Fascist Front;;;;;;;;;;;;;x
@@ -2016,9 +2016,9 @@ social_democrat_idolg_SWA;SNPP;;;;;;;;;;;;;x
 left_wing_radical_idolg_SWA;NGWASOREP;;;;;;;;;;;;;x
 maoist_idolg_SWA;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_SWA;Swaziland Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_SWE;Sveriges Nationella Förbund;Sveriges Nationella Förbund;Sveriges Nationella Förbund;;Sveriges Nationella Förbund;;;;;;;;;x
+fascistic_idolg_SWE;Sveriges Nationella Fï¿½rbund;Sveriges Nationella Fï¿½rbund;Sveriges Nationella Fï¿½rbund;;Sveriges Nationella Fï¿½rbund;;;;;;;;;x
 paternal_auto_idolg_SWE;Framstegspartiet;Framstegspartiet;Framstegspartiet;;Framstegspartiet;;;;;;;;;x
-social_cons_idolg_SWE;Högerpartiet;Högerpartiet;Högerpartiet;;Högerpartiet;;;;;;;;;x
+social_cons_idolg_SWE;Hï¿½gerpartiet;Hï¿½gerpartiet;Hï¿½gerpartiet;;Hï¿½gerpartiet;;;;;;;;;x
 market_liberal_idolg_SWE;Folkpartiet;Folkpartiet;Folkpartiet;;Folkpartiet;;;;;;;;;x
 social_liberal_idolg_SWE;Centerpartiet;Centerpartiet;Centerpartiet;;Centerpartiet;;;;;;;;;x
 social_democrat_idolg_SWE;Social Demokraterna;Social Demokraterna;Social Demokraterna;;Social Demokraterna;;;;;;;;;x
@@ -2034,13 +2034,13 @@ social_democrat_idolg_SYA;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_SYA;People's Party;;;;;;;;;;;;;x
 maoist_idolg_SYA;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_SYA;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_SYR;Syrian Social Nationalist Party;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista Árabe;;;;;;;;;x
+fascistic_idolg_SYR;Syrian Social Nationalist Party;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista ï¿½rabe;;;;;;;;;x
 paternal_auto_idolg_SYR;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
-social_cons_idolg_SYR;Muslim Brotherhood;Frères musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
-market_liberal_idolg_SYR;Reform Party;Parti réformiste;Reformpartei;;Partido Reformista;;;;;;;;;x
-social_liberal_idolg_SYR;Arabic Democratic Unionist Party ;Parti unioniste démocratique arabe;Demokratische Einheitspartei Arabiens;;Partido Árabe Unionista Democrático ;;;;;;;;;x
-social_democrat_idolg_SYR;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Unión Socialista Árabe;;;;;;;;;x
-left_wing_radical_idolg_SYR;Arab Workers Party;Parti des travailleurs arabes;Arabischer Arbeiterpartei;;Partido de los Trabajadores Árabes;;;;;;;;;x
+social_cons_idolg_SYR;Muslim Brotherhood;Frï¿½res musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
+market_liberal_idolg_SYR;Reform Party;Parti rï¿½formiste;Reformpartei;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_SYR;Arabic Democratic Unionist Party ;Parti unioniste dï¿½mocratique arabe;Demokratische Einheitspartei Arabiens;;Partido ï¿½rabe Unionista Democrï¿½tico ;;;;;;;;;x
+social_democrat_idolg_SYR;Arab Socialist Union;Union socialiste arabe;Sozialistische Union Arabiens;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
+left_wing_radical_idolg_SYR;Arab Workers Party;Parti des travailleurs arabes;Arabischer Arbeiterpartei;;Partido de los Trabajadores ï¿½rabes;;;;;;;;;x
 maoist_idolg_SYR;Communist Labor Party;Parti communiste du Travail;Kommunistische Arbeiterpartei;;Partido Comunista del Trabajo;;;;;;;;;x
 communist_idolg_SYR;Communist Party of Syria;Parti communiste syrien;Kommunistische Partei Syriens;;Partido Comunista de Siria;;;;;;;;;x
 fascistic_idolg_TAJ;Fascist Front;;;;;;;;;;;;;x
@@ -2064,12 +2064,12 @@ communist_idolg_TCI;Communist Party;;;;;;;;;;;;;x
 fascistic_idolg_TIB;Fascist Front;Front fasciste;Faschistische Front;;Frente Fascista;;;;;;;;;x
 paternal_auto_idolg_TIB;Gelug-pa;Gelug-pa;Gelug-pa;;Gelug-pa;;;;;;;;;x
 social_cons_idolg_TIB;Nyingma;Nyingma;Nyingma;;Nyingma;;;;;;;;;x
-market_liberal_idolg_TIB;Liberal Party;Parti libéral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
-social_liberal_idolg_TIB;Social Liberal Party;Parti social libéral;Sozialliberale Partei;;Partido Social Liberal;;;;;;;;;x
-social_democrat_idolg_TIB;Social Democrat Party;Parti social démocrate;Sozialdemokratische Partei;;Partido Socialdemócrata;;;;;;;;;x
-left_wing_radical_idolg_TIB;Revolutionary Party;Parti révolutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
+market_liberal_idolg_TIB;Liberal Party;Parti libï¿½ral ;Liberale Partei;;Partido Liberal;;;;;;;;;x
+social_liberal_idolg_TIB;Social Liberal Party;Parti social libï¿½ral;Sozialliberale Partei;;Partido Social Liberal;;;;;;;;;x
+social_democrat_idolg_TIB;Social Democrat Party;Parti social dï¿½mocrate;Sozialdemokratische Partei;;Partido Socialdemï¿½crata;;;;;;;;;x
+left_wing_radical_idolg_TIB;Revolutionary Party;Parti rï¿½volutionnaire;Revolutionspartei;;Partido Revolucionario;;;;;;;;;x
 maoist_idolg_TIB;Workers and Peasants Party;Parti des travailleurs et des paysans;Arbeiter- und Bauernpartei;;Partido Trabajadores y Campesinos;;;;;;;;;x
-communist_idolg_TIB;Communist Party of Tibet;Parti communiste tibétain;Kommunistische Partei Tibets;;Partido Comunista del Tíbet;;;;;;;;;x
+communist_idolg_TIB;Communist Party of Tibet;Parti communiste tibï¿½tain;Kommunistische Partei Tibets;;Partido Comunista del Tï¿½bet;;;;;;;;;x
 fascistic_idolg_TIL;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_TIL;Democratic Republican Party;;;;;;;;;;;;;x
 social_cons_idolg_TIL;Democratic Justice Party;;;;;;;;;;;;;x
@@ -2151,15 +2151,15 @@ social_democrat_idolg_TUN;Movement of Socialist Democrats;;;;;;;;;;;;;x
 left_wing_radical_idolg_TUN;Party of People's Unity;;;;;;;;;;;;;x
 maoist_idolg_TUN;Tunisian Workers' Party;;;;;;;;;;;;;x
 communist_idolg_TUN;Tunisian Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_TUR;Milliyetçi Hareket Partisi;Milliyetçi Hareket Partisi;Milliyetçi Hareket Partisi;;Milliyetçi Hareket Partisi;;;;;;;;;x
+fascistic_idolg_TUR;Milliyetï¿½i Hareket Partisi;Milliyetï¿½i Hareket Partisi;Milliyetï¿½i Hareket Partisi;;Milliyetï¿½i Hareket Partisi;;;;;;;;;x
 paternal_auto_idolg_TUR;Militaristler;Militaristler;Militaristler;;Militaristler;;;;;;;;;x
 social_cons_idolg_TUR;Demokrat Parti;Demokrat Parti;Demokrat Parti;;Demokrat Parti;;;;;;;;;x
 market_liberal_idolg_TUR;Anavatan Partisi;Anavatan Partisi;Anavatan Partisi;;Anavatan Partisi;;;;;;;;;x
 social_liberal_idolg_TUR;Cumhuriyet Halk Partisi;Cumhuriyet Halk Partisi;Cumhuriyet Halk Partisi;;Cumhuriyet Halk Partisi;;;;;;;;;x
 social_democrat_idolg_TUR;Demokratik Sol Parti;Demokratik Sol Parti;Demokratik Sol Parti;;Demokratik Sol Parti;;;;;;;;;x
 left_wing_radical_idolg_TUR;THKP-C;THKP-C;THKP-C;;THKP-C;;;;;;;;;x
-maoist_idolg_TUR;Türkiye Isçi Partisi;Türkiye Isçi Partisi;Türkiye Isçi Partisi;;Türkiye Isçi Partisi;;;;;;;;;x
-communist_idolg_TUR;Türkiye Komünist Partisi;Türkiye Komünist Partisi;Türkiye Komünist Partisi;;Türkiye Komünist Partisi;;;;;;;;;x
+maoist_idolg_TUR;Tï¿½rkiye Isï¿½i Partisi;Tï¿½rkiye Isï¿½i Partisi;Tï¿½rkiye Isï¿½i Partisi;;Tï¿½rkiye Isï¿½i Partisi;;;;;;;;;x
+communist_idolg_TUR;Tï¿½rkiye Komï¿½nist Partisi;Tï¿½rkiye Komï¿½nist Partisi;Tï¿½rkiye Komï¿½nist Partisi;;Tï¿½rkiye Komï¿½nist Partisi;;;;;;;;;x
 fascistic_idolg_TWN;Chinese Youth Party;;;;;;;;;;;;;x
 paternal_auto_idolg_TWN;KMT (Nanjing Faction);;;;;;;;;;;;;x
 social_cons_idolg_TWN;Democratic Socialist Party;;;;;;;;;;;;;x
@@ -2211,15 +2211,15 @@ social_cons_idolg_URU;Partido Conservador;Partido Conservador;Partido Conservado
 market_liberal_idolg_URU;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;;x
 social_liberal_idolg_URU;Partido Blanco;Partido Blanco;Partido Blanco;;Partido Blanco;;;;;;;;;x
 social_democrat_idolg_URU;Partido Socialista del Uruguay;Partido Socialista del Uruguay;Partido Socialista del Uruguay;;Partido Socialista del Uruguay;;;;;;;;;x
-left_wing_radical_idolg_URU;Movimiento de Participación Popular;Movimiento de Participación Popular;Movimiento de Participación Popular;;Movimiento de Participación Popular;;;;;;;;;x
+left_wing_radical_idolg_URU;Movimiento de Participaciï¿½n Popular;Movimiento de Participaciï¿½n Popular;Movimiento de Participaciï¿½n Popular;;Movimiento de Participaciï¿½n Popular;;;;;;;;;x
 maoist_idolg_URU;Partido Obrero;Partido Obrero;Partido Obrero;;Partido Obrero;;;;;;;;;x
 communist_idolg_URU;Partido Comunista del Uruguay;Partido Comunista del Uruguay;Partido Comunista del Uruguay;;Partido Comunista del Uruguay;;;;;;;;;x
-fascistic_idolg_USA;Silver Legion of America;Légion d'argent américaine;Silver Legion of America;;Legión Plateada de América;;;;;;;;;x
-paternal_auto_idolg_USA;America First Committee;Premier comité américain;America First Committee;;Primer Comité de América;;;;;;;;;x
-social_cons_idolg_USA;Republican Party;Parti républicain;Republican Party;;Partido Republicano;;;;;;;;;x
+fascistic_idolg_USA;Silver Legion of America;Lï¿½gion d'argent amï¿½ricaine;Silver Legion of America;;Legiï¿½n Plateada de Amï¿½rica;;;;;;;;;x
+paternal_auto_idolg_USA;America First Committee;Premier comitï¿½ amï¿½ricain;America First Committee;;Primer Comitï¿½ de Amï¿½rica;;;;;;;;;x
+social_cons_idolg_USA;Republican Party;Parti rï¿½publicain;Republican Party;;Partido Republicano;;;;;;;;;x
 market_liberal_idolg_USA;Progressive Party;Parti progressiste;Progressive Party;;Partido Progresista;;;;;;;;;x
-social_liberal_idolg_USA;Democratic Party;Parti démocrate;Democrat Party;;Partido Demócrata;;;;;;;;;x
-social_democrat_idolg_USA;Democratic Farm-Labor Party;Parti démocratique agricole et travailliste;Democratic Farm-Labor Party;;Partido Democrático Laborista Campesino;;;;;;;;;x
+social_liberal_idolg_USA;Democratic Party;Parti dï¿½mocrate;Democrat Party;;Partido Demï¿½crata;;;;;;;;;x
+social_democrat_idolg_USA;Democratic Farm-Labor Party;Parti dï¿½mocratique agricole et travailliste;Democratic Farm-Labor Party;;Partido Democrï¿½tico Laborista Campesino;;;;;;;;;x
 left_wing_radical_idolg_USA;Socialist Party;Parti socialiste;Socialist Party;;Partido Socialista;;;;;;;;;x
 maoist_idolg_USA;Socialist Workers Party;Parti des travailleurs socialistes;Socialist Workers Party;;Partido de los Trabajadores Socialistas;;;;;;;;;x
 communist_idolg_USA;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;;;x
@@ -2245,10 +2245,10 @@ fascistic_idolg_VEN;Falange de Venezuela;Falange de Venezuela;Falange de Venezue
 paternal_auto_idolg_VEN;COPEI;COPEI;COPEI;;COPEI;;;;;;;;;x
 social_cons_idolg_VEN;Partido Conservador;Partido Conservador;Partido Conservador;;Partido Conservador;;;;;;;;;x
 market_liberal_idolg_VEN;Gran Partido Liberal de Venezuela;Gran Partido Liberal de Venezuela;Gran Partido Liberal de Venezuela;;Gran Partido Liberal de Venezuela;;;;;;;;;x
-social_liberal_idolg_VEN;Partido Democrático Venezolano;Partido Democrático Venezolano;Partido Democrático Venezolano;;Partido Democrático Venezolano;;;;;;;;;x
-social_democrat_idolg_VEN;Acción Democrática;Acción Democrática;Acción Democrática;;Acción Democrática;;;;;;;;;x
+social_liberal_idolg_VEN;Partido Democrï¿½tico Venezolano;Partido Democrï¿½tico Venezolano;Partido Democrï¿½tico Venezolano;;Partido Democrï¿½tico Venezolano;;;;;;;;;x
+social_democrat_idolg_VEN;Acciï¿½n Democrï¿½tica;Acciï¿½n Democrï¿½tica;Acciï¿½n Democrï¿½tica;;Acciï¿½n Democrï¿½tica;;;;;;;;;x
 left_wing_radical_idolg_VEN;Partido Republicano Progresista;Partido Republicano Progresista;Partido Republicano Progresista;;Partido Republicano Progresista;;;;;;;;;x
-maoist_idolg_VEN;Unión Popular Venezolana;Unión Popular Venezolana;Unión Popular Venezolana;;Unión Popular Venezolana;;;;;;;;;x
+maoist_idolg_VEN;Uniï¿½n Popular Venezolana;Uniï¿½n Popular Venezolana;Uniï¿½n Popular Venezolana;;Uniï¿½n Popular Venezolana;;;;;;;;;x
 communist_idolg_VEN;Partido Comunista de Venezuela;Partido Comunista de Venezuela;Partido Comunista de Venezuela;;Partido Comunista de Venezuela;;;;;;;;;x
 fascistic_idolg_VGI;Fascist Front;;;;;;;;;;;;;x
 paternal_auto_idolg_VGI;Democratic Republican Party;;;;;;;;;;;;;x
@@ -2295,15 +2295,15 @@ social_democrat_idolg_WPA;Democratic Labor Party;;;;;;;;;;;;;x
 left_wing_radical_idolg_WPA;People's Party;;;;;;;;;;;;;x
 maoist_idolg_WPA;Workers' Party;;;;;;;;;;;;;x
 communist_idolg_WPA;Communist Party;;;;;;;;;;;;;x
-fascistic_idolg_YEM;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista Árabe;;;;;;;;;x
+fascistic_idolg_YEM;Arab Fascist Front;Front fasciste arabe;Faschistische Front Arabiens;;Frente Fascista ï¿½rabe;;;;;;;;;x
 paternal_auto_idolg_YEM;National Party;Parti national;Nationalpartei;;Partido Nacional;;;;;;;;;x
-social_cons_idolg_YEM;Muslim Brotherhood;Frères musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
-market_liberal_idolg_YEM;Reform Party;Parti réformiste;Reformpartei;;Partido Reformista;;;;;;;;;x
-social_liberal_idolg_YEM;Arabic Democratic Unionist Party ;Parti unioniste démocratique arabe;Arabische Demokratische Einheitspartei;;Partido Árabe Unionista Democrático ;;;;;;;;;x
-social_democrat_idolg_YEM;Arab Socialist Union;Union socialiste arabe;Arabische Sozialistische Union;;Unión Socialista Árabe;;;;;;;;;x
-left_wing_radical_idolg_YEM;Arab Socialist Movement;Mouvement socialiste arabe;Arabische Sozialistische Bewegung;;Movimiento Socialista Árabe;;;;;;;;;x
+social_cons_idolg_YEM;Muslim Brotherhood;Frï¿½res musulmans;Muslimische Bruderschaft;;Hermanos Musulmanes;;;;;;;;;x
+market_liberal_idolg_YEM;Reform Party;Parti rï¿½formiste;Reformpartei;;Partido Reformista;;;;;;;;;x
+social_liberal_idolg_YEM;Arabic Democratic Unionist Party ;Parti unioniste dï¿½mocratique arabe;Arabische Demokratische Einheitspartei;;Partido ï¿½rabe Unionista Democrï¿½tico ;;;;;;;;;x
+social_democrat_idolg_YEM;Arab Socialist Union;Union socialiste arabe;Arabische Sozialistische Union;;Uniï¿½n Socialista ï¿½rabe;;;;;;;;;x
+left_wing_radical_idolg_YEM;Arab Socialist Movement;Mouvement socialiste arabe;Arabische Sozialistische Bewegung;;Movimiento Socialista ï¿½rabe;;;;;;;;;x
 maoist_idolg_YEM;Ba'ath Party;Parti Baas;Baath-Partei;;Partido Ba'ath;;;;;;;;;x
-communist_idolg_YEM;Communist Party of Yemen;Parti communiste yéménite;Kommunistische Partei des Jemens;;Partido?Comunista del Yemen;;;;;;;;;x
+communist_idolg_YEM;Communist Party of Yemen;Parti communiste yï¿½mï¿½nite;Kommunistische Partei des Jemens;;Partido?Comunista del Yemen;;;;;;;;;x
 fascistic_idolg_YUG;ZBOR;ZBOR;ZBOR;;ZBOR;;;;;;;;;x
 paternal_auto_idolg_YUG;Narodna Radikalna Stranka;Narodna Radikalna Stranka;Narodna Radikalna Stranka;;Narodna radikalna stranka;;;;;;;;;x
 social_cons_idolg_YUG;Seljacko-Demokratska Koalicija;Seljacko-Demokratska Koalicija;Seljacko-Demokratska Koalicija;;Seljacko-demokratska koalicija;;;;;;;;;x
